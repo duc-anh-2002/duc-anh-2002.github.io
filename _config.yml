@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait.png"
+  avatar           : "profile.png"
   name             : "Duc Anh Nguyen"
   pronouns         : "he/him"  
   bio              : "AI Resident @ Qualcomm AI Research"
