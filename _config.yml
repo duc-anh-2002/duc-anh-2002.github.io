@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "portrait.jpg"
-  # name             : "Duc Anh Nguyen"
+  name             : "Duc Anh Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
