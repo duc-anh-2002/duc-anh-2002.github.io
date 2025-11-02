@@ -26,9 +26,9 @@ author:
   avatar           : "images/portrait.png"
   name             : "Duc Anh Nguyen"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Qualcomm AI Research"
+  bio              : "AI Resident @ Qualcomm AI Research"
+  location         : "Hanoi, Vietnam"
+  # employer         : "Qualcomm AI Research"
   # uri              : 
   email            : "nguyenducanh909.bkhn@gmail.com" 
 
