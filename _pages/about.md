@@ -11,6 +11,9 @@ Hi! My name is Duc Anh Nguyen. In Vietnamese, my name is written as Nguyễn Đ�
 
 Currently, I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), where I have the great opportunity to work under the guidance of [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
 
+
+(A little tip: you can switch between dark & light mode by clicking the button on the right of the CV tab!)
+
 ## Research Interest
 
 My research aims to uncover the fundamental mathematical principles governing state-of-the-art foundation models, leveraging these theoretical insights to build the next generation of **efficient, interpretable, and robust Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**.
@@ -247,5 +250,3 @@ My research aims to uncover the fundamental mathematical principles governing st
 For a complete list of publications, please visit the [Publications](/publications/) page.
 
 ---
-
-(A little tip: you can switch between dark and light mode by clicking the button on the right of the CV tab!)
