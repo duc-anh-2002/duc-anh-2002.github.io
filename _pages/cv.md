@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](Academic_CV.pdf) (last updated Nov 22nd, 2025).
-
-<!-- <div style="text-align: center; margin: 3em 0;">
+<div style="text-align: center; margin: 3em 0;">
   <div style="margin-bottom: 2em;">
     <a href="{{ base_path }}/files/Academic_CV.pdf" target="_blank" style="display: inline-block; padding: 1em 2em; background: var(--global-link-color); color: white; text-decoration: none; border-radius: 8px; font-size: 1.1em; font-weight: 600; transition: opacity 0.2s;">
       📄 Download CV (PDF)
@@ -32,4 +30,4 @@ You can find my CV [here](Academic_CV.pdf) (last updated Nov 22nd, 2025).
     <strong>View the full CV</strong> by clicking the download button above, or 
     <a href="{{ base_path }}/files/Academic_CV.pdf" target="_blank" style="color: var(--global-link-color);">open it directly in a new tab</a>.
   </p>
-</div> -->
+</div>
