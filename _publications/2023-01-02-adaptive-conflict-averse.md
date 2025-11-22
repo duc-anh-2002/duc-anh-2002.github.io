@@ -19,5 +19,3 @@ citation: 'Dinh Van Tuan, Tran Anh Tuan, Duc Anh Nguyen, Bui Khuong Duy, Tran Ng
 
 This work introduces an adaptive conflict-averse multi-gradient descent algorithm that effectively handles multiple objectives in machine learning tasks, addressing the challenges of conflicting gradients in multi-objective optimization.
 
-<!-- **Recommended citation:** {{ page.citation }} -->
-
