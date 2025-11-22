@@ -1,7 +1,7 @@
 ---
 title: "Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"
 collection: publications
-category: manuscripts
+category: patents
 permalink: /publication/2025-01-01-selective-sinkhorn-routing
 excerpt: 'We propose Selective Sinkhorn Routing, an improved routing mechanism for Sparse Mixture of Experts that enhances model efficiency and performance.'
 date: 2025-01-01
