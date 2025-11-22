@@ -179,7 +179,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 ## Selected Publications
 
 <div style="margin: 1em 0; padding: 0.75em 1em; background: rgba(82, 173, 200, 0.08); border-radius: 4px; border-left: 3px solid var(--global-link-color);">
-  <em style="color: #dc322f; font-size: 0.9em;">(*) denotes equal contribution</em>
+  <em style="font-size: 0.9em;">(*) denotes equal contribution</em>
 </div>
 
 ### Publications & Patents
