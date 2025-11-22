@@ -184,46 +184,43 @@ My research aims to uncover the fundamental mathematical principles governing st
 ## Selected Publications
 
 <div style="margin: 1em 0; padding: 0.75em 1em; background: rgba(82, 173, 200, 0.08); border-radius: 4px; border-left: 3px solid var(--global-link-color);">
-  <em style="color: var(--global-text-color-light); font-size: 0.9em;">(*) denotes equal contribution</em>
+  <em style="color: #dc322f; font-size: 0.9em;">(*) denotes equal contribution</em>
 </div>
 
 ### Publications & Patents
 
 <p>
-  1. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
-  <u>Duc Anh Nguyen<u/>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
+  1. <strong style="color: var(--global-link-color);">Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
+  <u>Duc Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   U.S. Patent Application (Filed), Qualcomm, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
   <!-- <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a> -->
   <!-- <a href="https://github.com/your-repo" class="badge badge-gray">code</a> -->
-  
 </p>
 
 <p>
   2. <strong>Determinants of Credit Risk under the Basel II Accord: A Case Study of the Vietnamese Banking Sector.</strong><br>
-  Ngo Thu Giang, <u>Duc Anh Nguyen<u/>, Vu Thi Thao Chi, Nguyen Bao Anh, Nguyen Tai Quang Dinh<br>
+  Ngo Thu Giang, <u>Duc Anh Nguyen</u>, Vu Thi Thao Chi, Nguyen Bao Anh, Nguyen Tai Quang Dinh<br>
   International Conference on Emerging Challenges in Economics and Business (ICECH 2023)
   <!-- <!-- Add badges when links are available: -->
   <a href="https://www.atlantis-press.com/proceedings/icech-23/125997574" class="badge badge-blue">link</a>
   <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a> -->
-  
 </p>
 
 <p>
   3. <strong>Adaptive Conflict-Averse Multi-gradient Descent for Multi-objective Learning.</strong><br>
-  Dinh Van Tuan, Tran Anh Tuan,<u>Duc Anh Nguyen<u/>, Bui Khuong Duy, Tran Ngoc Thang<br>
+  Dinh Van Tuan, Tran Anh Tuan, <u>Duc Anh Nguyen</u>, Bui Khuong Duy, Tran Ngoc Thang<br>
   International Conference on Intelligence of Things (ICIT 2023)
   <!-- <!-- Add badges when links are available: -->
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-46573-4_6" class="badge badge-blue">link</a>
   <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a> -->
   <!-- <a href="https://github.com/your-repo" class="badge badge-gray">code</a> -->
-
 </p>
 
 <p>
   4. <strong>Exploration of Plane Geometry</strong> [Book]<br>
-  Le Xuan Hoang, <u>Duc Anh Nguyen<u/><br>
+  Le Xuan Hoang, <u>Duc Anh Nguyen</u><br>
   Vietnam National University Press, 2022
   <!-- Add badges when links are available:
   <a href="https://your-link.com" class="badge badge-blue">link</a>
@@ -233,30 +230,28 @@ My research aims to uncover the fundamental mathematical principles governing st
 ### Preprints
 
 <p>
-  1. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
-  <u>Duc Anh Nguyen<u/>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
+  1. <strong style="color: var(--global-link-color);">Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
+  <u>Duc Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
   <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
   <!-- <a href="https://github.com/your-repo" class="badge badge-gray">code</a> -->
-  
 </p>
 
 <p>
   2. <strong>Incremental attribute reduction on dynamic decision tables with intuitionistic fuzzy weighted neighborhood rough sets.</strong><br>
-  Viet Anh Pham, Ngoc Thuy Nguyen, <u>Duc Anh Nguyen<u/>, Long Giang Nguyen<br>
+  Viet Anh Pham, Ngoc Thuy Nguyen, <u>Duc Anh Nguyen</u>, Long Giang Nguyen<br>
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
   <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
   <!-- <a href="https://github.com/your-repo" class="badge badge-gray">code</a> -->
-  
 </p>
 
 <p>
   3. <strong>Artificial Intelligence for Metal Material Science: Challenges, Solutions, and Future Developments.</strong><br>
-  Bui Truong Giang Le*, <u>Duc Anh Nguyen<u/>*, Minh Tuan Vu, Phan Anh Tran, Trong Duc Nguyen, Minh Thanh Le, Khue Nguyen Vo Ngoc, Duy Hung Tran, Van Anh Nguyen, Dung Hoang Tien<br>
+  Bui Truong Giang Le*, <u>Duc Anh Nguyen</u>*, Minh Tuan Vu, Phan Anh Tran, Trong Duc Nguyen, Minh Thanh Le, Khue Nguyen Vo Ngoc, Duy Hung Tran, Van Anh Nguyen, Dung Hoang Tien<br>
   Under review, 2025
   <!-- Add badges when links are available:
   <a href="https://your-link.com" class="badge badge-blue">link</a>
@@ -266,7 +261,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 <p>
   4. <strong>Artificial Intelligence in Metal Additive Manufacturing: Current Status, Challenges, and Future Developments.</strong><br>
-  <u>Duc Anh Nguyen<u/>*, Bui Truong Giang Le*, Van Anh Nguyen, Minh Tuan Vu, Manh Ha Bui, Minh Thanh Le, Trong Duc Nguyen, Tien Dung Hoang, Xuan Hai Le<br>
+  <u>Duc Anh Nguyen</u>*, Bui Truong Giang Le*, Van Anh Nguyen, Minh Tuan Vu, Manh Ha Bui, Minh Thanh Le, Trong Duc Nguyen, Tien Dung Hoang, Xuan Hai Le<br>
   Under review, 2025
   <!-- Add badges when links are available:
   <a href="https://your-link.com" class="badge badge-blue">link</a>
@@ -276,13 +271,12 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 <p>
   5. <strong>A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems.</strong><br>
-  <u>Duc Anh Nguyen<u/>, Tran Ngoc Thang<br>
+  <u>Duc Anh Nguyen</u>, Tran Ngoc Thang<br>
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
   <a href="https://arxiv.org/abs/2502.02010" class="badge badge-green">arXiv</a>
   <!-- <a href="https://github.com/your-repo" class="badge badge-gray">code</a> -->
-  
 </p>
 
 For a complete list of publications, please visit the [Publications](/publications/) page.
