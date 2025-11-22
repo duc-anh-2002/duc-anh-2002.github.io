@@ -23,13 +23,8 @@ My research aims to uncover the fundamental mathematical principles governing st
 <div class="education-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
     <div style="flex: 1; min-width: 250px;">
-      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">Bachelor of Science in Mathematics and Informatics</h3>
-      <p style="margin: 0.25em 0;">
-        <a href="https://fami.hust.edu.vn/" target="_blank">Faculty of Mathematics and Informatics (FAMI)</a>
-      </p>
-      <p style="margin: 0.25em 0;">
-        <a href="https://hust.edu.vn/en/" target="_blank">Hanoi University of Science and Technology (HUST)</a>
-      </p>
+      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">Hanoi University of Science and Technology (HUST)</h3>
+      <p style="margin: 0.25em 0; color: var(--global-text-color-light);">B.Sc in Mathematics and Informatics</p>
       <div style="margin-top: 0.75em; display: flex; flex-wrap: wrap; gap: 0.5em;">
         <span style="background: var(--global-link-color); color: white; padding: 0.25em 0.75em; border-radius: 12px; font-size: 0.85em; font-weight: 600;">🏆 Valedictorian (Ranked 1st)</span>
         <span style="background: rgba(82, 173, 200, 0.15); color: var(--global-link-color); padding: 0.25em 0.75em; border-radius: 12px; font-size: 0.85em; font-weight: 600;">CGPA: 3.92/4.00</span>
