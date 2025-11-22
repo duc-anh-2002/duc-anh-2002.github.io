@@ -11,6 +11,17 @@ citation: 'Duc Anh Nguyen*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tr
 note: '(*) denotes equal contribution'
 ---
 
+<p>
+  <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
+  Duc Anh Nguyen*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
+  US Patent filed by Qualcomm, 2025
+  <!-- Uncomment and add your links when available:
+  <a href="https://your-link.com" class="badge badge-blue">link</a>
+  <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a>
+  <a href="https://github.com/your-repo" class="badge badge-gray">code</a>
+  -->
+</p>
+
 This work presents Selective Sinkhorn Routing, an improved routing mechanism for Sparse Mixture of Experts (MoE) architectures. The method enhances model efficiency and performance through optimized expert selection and routing strategies.
 
 **Recommended citation:** {{ page.citation }}
