@@ -240,7 +240,7 @@ My research aims to uncover the fundamental mathematical principles governing st
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
-  <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
+  <!-- <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a> -->
   <!-- <a href="https://github.com/your-repo" class="badge badge-gray">code</a> -->
 </p>
 
