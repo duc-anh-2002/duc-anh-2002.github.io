@@ -47,14 +47,14 @@ My research aims to uncover the fundamental mathematical principles governing st
   </p>
 </div>
 
-<div class="education-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-border-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
+<div class="education-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(82, 173, 200, 0.05), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="flex: 1; min-width: 250px;">
       <h3 style="margin: 0 0 0.5em 0; font-size: 1.1em; font-weight: bold;">High School for Gifted Students, VNU University of Science (HSGS)</h3>
       <p style="margin: 0.25em 0; color: var(--global-text-color-light);">High-Quality Class</p>
       <div style="margin-top: 0.75em;">
-        <span style="background: rgba(122, 132, 136, 0.15); color: var(--global-text-color); padding: 0.25em 0.75em; border-radius: 12px; font-size: 0.85em; font-weight: 600;">GPA: 9.5/10 (Top 1%)</span>
-        <span style="margin-left: 0.5em; color: var(--global-text-color-light); font-size: 0.9em;">Graduated with high distinction</span>
+        <span style="background: var(--global-link-color); color: white; padding: 0.25em 0.75em; border-radius: 12px; font-size: 0.85em; font-weight: 600;">🎓 Graduated with high distinction (Top 1%)</span>
+        <span style="background: rgba(82, 173, 200, 0.15); color: var(--global-link-color); padding: 0.25em 0.75em; border-radius: 12px; font-size: 0.85em; font-weight: 600;">CGPA: 9.5/10</span>
       </div>
     </div>
     <div style="text-align: right; color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em; margin-top: 0.25em;">
@@ -142,7 +142,7 @@ My research aims to uncover the fundamental mathematical principles governing st
   <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-border-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
-        <strong>💼 Exness Scholarship</strong><br>
+        <strong>🎓 Exness Scholarship</strong><br>
         <em style="color: var(--global-text-color-light); font-size: 0.9em;">Hanoi University of Science and Technology & Exness Corporation</em>
       </div>
       <span style="color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em;">Aug 2023</span>
@@ -184,7 +184,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 ## Selected Publications
 
 <div style="margin: 1em 0; padding: 0.75em 1em; background: rgba(82, 173, 200, 0.08); border-radius: 4px; border-left: 3px solid var(--global-link-color);">
-  <em style="color: var(--global-text-color-light); font-size: 0.9em;">(*) denotes equal contribution</em>
+  <em style="color: red; font-weight: bold; font-size: 0.9em;">(*) denotes equal contribution</em>
 </div>
 
 ### Publications & Patents
