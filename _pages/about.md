@@ -23,7 +23,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 <div class="education-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
     <div style="flex: 1; min-width: 250px;">
-      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold; color: var(--global-link-color);">Bachelor of Science in Mathematics and Informatics</h3>
+      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">Bachelor of Science in Mathematics and Informatics</h3>
       <p style="margin: 0.25em 0;">
         <a href="https://fami.hust.edu.vn/" target="_blank">Faculty of Mathematics and Informatics (FAMI)</a>
       </p>
@@ -69,7 +69,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 <div class="research-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
     <div style="flex: 1; min-width: 250px;">
-      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold; color: var(--global-link-color);">AI Research Resident</h3>
+      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">AI Research Resident</h3>
       <p style="margin: 0.25em 0; font-weight: 600;">
         VinAI Research (acquired by Qualcomm)
       </p>
@@ -85,7 +85,7 @@ My research aims to uncover the fundamental mathematical principles governing st
   </div>
 </div>
 
-<div class="research-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-border-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
+<div class="research-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="flex: 1; min-width: 250px;">
       <h3 style="margin: 0 0 0.5em 0; font-size: 1.1em; font-weight: bold;">Research Student</h3>
@@ -110,7 +110,7 @@ My research aims to uncover the fundamental mathematical principles governing st
   <div style="padding: 1em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
-        <strong style="color: var(--global-link-color);">🏅 National Program for the Development of Mathematics Scholarship</strong><br>
+        <strong>🏅 National Program for the Development of Mathematics Scholarship</strong><br>
         <em style="color: var(--global-text-color-light); font-size: 0.9em;">Vietnam Institute for Advanced Study in Mathematics (VIASM)</em><br>
         <span style="color: var(--global-text-color-light); font-size: 0.85em;">Awarded twice for outstanding academic performance in 2023–2024</span>
       </div>
@@ -118,7 +118,7 @@ My research aims to uncover the fundamental mathematical principles governing st
     </div>
   </div>
 
-  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-border-color); border-radius: 4px;">
+  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
         <strong>🎖️ "Five–Good Student" Award</strong><br>
@@ -129,7 +129,7 @@ My research aims to uncover the fundamental mathematical principles governing st
     </div>
   </div>
 
-  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-border-color); border-radius: 4px;">
+  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
         <strong>🥇 Gold Medal – International Youth Math Challenge</strong><br>
@@ -139,7 +139,7 @@ My research aims to uncover the fundamental mathematical principles governing st
     </div>
   </div>
 
-  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-border-color); border-radius: 4px;">
+  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
         <strong>🎓 Exness Scholarship</strong><br>
@@ -149,7 +149,7 @@ My research aims to uncover the fundamental mathematical principles governing st
     </div>
   </div>
 
-  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-border-color); border-radius: 4px;">
+  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
         <strong>🥉 Third Prize – VIASM Summer School "Research Experiences for Undergraduates"</strong><br>
@@ -159,7 +159,7 @@ My research aims to uncover the fundamental mathematical principles governing st
     </div>
   </div>
 
-  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-border-color); border-radius: 4px;">
+  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
         <strong>🥇 Gold Medal – Iranian Combinatorics Olympiad</strong>
@@ -168,7 +168,7 @@ My research aims to uncover the fundamental mathematical principles governing st
     </div>
   </div>
 
-  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-border-color); border-radius: 4px;">
+  <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
         <strong>🥈 Silver Medal – Iranian Geometry Olympiad</strong><br>
@@ -190,7 +190,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 ### Publications & Patents
 
 <p>
-  1. <strong style="color: var(--global-link-color);">Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
+  1. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
   <u>Duc Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   U.S. Patent Application (Filed), Qualcomm, 2025
   <!-- <!-- Add badges when links are available: -->
@@ -230,7 +230,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 ### Preprints
 
 <p>
-  1. <strong style="color: var(--global-link-color);">Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
+  1. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
   <u>Duc Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
