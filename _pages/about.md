@@ -190,7 +190,6 @@ My research aims to uncover the fundamental mathematical principles governing st
   Vietnam National University Press, 2025
   <!-- <!-- Add badges when links are available: -->
   <a href="https://drive.google.com/file/d/11iBy1LXa9kCDdZpR4-t7JqLP5qB-e0oT/view?usp=sharing" class="badge badge-blue">link</a>
-  -->
 </p>
 
 <p>
@@ -228,7 +227,6 @@ My research aims to uncover the fundamental mathematical principles governing st
   Vietnam National University Press, 2022
   <!-- <!-- Add badges when links are available: -->
   <a href="https://drive.google.com/file/d/1AVRHtfeq6b0yQe65mJ_hdn9Fux6qgsmK/view?usp=sharing" class="badge badge-blue">link</a>
-  -->
 </p>
 
 ### Preprints
