@@ -19,5 +19,4 @@ citation: 'Le Xuan Hoang, Duc Anh Nguyen. (2022). <i>Exploration of Plane Geomet
   -->
 </p>
 
-This book provides a comprehensive exploration of plane geometry, covering fundamental concepts, theorems, and problem-solving techniques. It serves as both a textbook and reference for students and educators interested in geometric reasoning and mathematical problem-solving.
-
+A comprehensive introduction to plane geometry that integrates foundational principles with advanced problem-solving techniques, offering readers a deep and structured understanding of geometric reasoning.
