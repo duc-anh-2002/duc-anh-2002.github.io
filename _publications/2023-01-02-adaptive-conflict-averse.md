@@ -3,7 +3,7 @@ title: "Adaptive Conflict-Averse Multi-gradient Descent for Multi-objective Lear
 collection: publications
 category: conferences
 permalink: /publication/2023-01-02-adaptive-conflict-averse
-excerpt: 'We propose an adaptive conflict-averse multi-gradient descent method for efficient multi-objective learning in machine learning applications.'
+excerpt: 'This work introduces an adaptive conflict-averse multi-gradient descent algorithm that effectively handles multiple objectives in machine learning tasks, addressing the challenges of conflicting gradients in multi-objective optimization.'
 date: 2023-01-02
 venue: 'International Conference on Intelligence of Things (ICIT 2023)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-46573-4_6'

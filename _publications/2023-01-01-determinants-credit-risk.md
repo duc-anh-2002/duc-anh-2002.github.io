@@ -3,7 +3,7 @@ title: "Determinants of Credit Risk under the Basel II Accord: A Case Study of t
 collection: publications
 category: conferences
 permalink: /publication/2023-01-01-determinants-credit-risk
-excerpt: 'This paper analyzes the determinants of credit risk in the Vietnamese banking sector under the Basel II framework.'
+excerpt: 'This paper investigates key factors influencing credit risk in Vietnam’s banking sector within the Basel II regulatory framework, providing empirical evidence and policy implications for risk management practices.'
 date: 2023-01-01
 venue: 'International Conference on Emerging Challenges in Economics and Business (ICECH 2023)'
 paperurl: 'https://www.atlantis-press.com/proceedings/icech-23/125997574'

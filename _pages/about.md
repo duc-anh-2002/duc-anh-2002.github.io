@@ -185,7 +185,16 @@ My research aims to uncover the fundamental mathematical principles governing st
 ### Publications & Patents
 
 <p>
-  1. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
+  1. <strong>Selected Beautiful Math Problems from International Competitions (Geometry)</strong> [Book]<br>
+  Nguyen Duy Khuong, Phan Quang Tri, Tran Quoc Dung, Nguyen Duong Minh, Pham Nguyen Phuc Long, <u>Duc Anh Nguyen</u><br>
+  Vietnam National University Press, 2025
+  <!-- <!-- Add badges when links are available: -->
+  <a href="https://drive.google.com/file/d/11iBy1LXa9kCDdZpR4-t7JqLP5qB-e0oT/view?usp=sharing" class="badge badge-blue">link</a>
+  -->
+</p>
+
+<p>
+  2. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
   <u>Duc Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   U.S. Patent Application (Filed), Qualcomm, 2025
   <!-- <!-- Add badges when links are available: -->
@@ -195,7 +204,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 </p>
 
 <p>
-  2. <strong>Determinants of Credit Risk under the Basel II Accord: A Case Study of the Vietnamese Banking Sector.</strong><br>
+  3. <strong>Determinants of Credit Risk under the Basel II Accord: A Case Study of the Vietnamese Banking Sector.</strong><br>
   Ngo Thu Giang, <u>Duc Anh Nguyen</u>, Vu Thi Thao Chi, Nguyen Bao Anh, Nguyen Tai Quang Dinh<br>
   International Conference on Emerging Challenges in Economics and Business (ICECH 2023)
   <!-- <!-- Add badges when links are available: -->
@@ -204,7 +213,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 </p>
 
 <p>
-  3. <strong>Adaptive Conflict-Averse Multi-gradient Descent for Multi-objective Learning.</strong><br>
+  4. <strong>Adaptive Conflict-Averse Multi-gradient Descent for Multi-objective Learning.</strong><br>
   Dinh Van Tuan, Tran Anh Tuan, <u>Duc Anh Nguyen</u>, Bui Khuong Duy, Tran Ngoc Thang<br>
   International Conference on Intelligence of Things (ICIT 2023)
   <!-- <!-- Add badges when links are available: -->
@@ -214,11 +223,11 @@ My research aims to uncover the fundamental mathematical principles governing st
 </p>
 
 <p>
-  4. <strong>Exploration of Plane Geometry</strong> [Book]<br>
+  5. <strong>Exploration of Plane Geometry</strong> [Book]<br>
   Le Xuan Hoang, <u>Duc Anh Nguyen</u><br>
   Vietnam National University Press, 2022
-  <!-- Add badges when links are available:
-  <a href="https://your-link.com" class="badge badge-blue">link</a>
+  <!-- <!-- Add badges when links are available: -->
+  <a href="https://drive.google.com/file/d/1AVRHtfeq6b0yQe65mJ_hdn9Fux6qgsmK/view?usp=sharing" class="badge badge-blue">link</a>
   -->
 </p>
 
