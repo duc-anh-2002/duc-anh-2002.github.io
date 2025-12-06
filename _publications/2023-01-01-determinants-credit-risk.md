@@ -19,5 +19,3 @@ citation: 'Ngo Thu Giang, Duc Anh Nguyen, Vu Thi Thao Chi, Nguyen Bao Anh, Nguye
 
 This paper examines the key factors influencing credit risk in Vietnamese banks under the Basel II Accord framework, providing insights for risk management and regulatory compliance.
 
-<!-- **Recommended citation:** {{ page.citation }} -->
-
