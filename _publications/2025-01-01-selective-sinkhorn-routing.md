@@ -3,7 +3,7 @@ title: "Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"
 collection: publications
 category: patents
 permalink: /publication/2025-01-01-selective-sinkhorn-routing
-excerpt: 'This work introduces Selective Sinkhorn Routing (SSR), a novel routing mechanism for sparse Mixture-of-Experts (SMoE) models. By formulating token-to-expert assignment as an optimal transport problem with balancing constraints, SSR derives gating assignments directly from a transport map — eliminating the need for auxiliary balancing losses or additional trainable noise. The method promotes balanced expert utilization while preserving flexibility, resulting in faster training, improved accuracy, and greater robustness across language modeling and image-classification tasks. This work introduces a new family of balancing strategies for efficient SMoE training.'
+excerpt: 'This work introduces Selective Sinkhorn Routing (SSR), a novel routing mechanism for sparse Mixture-of-Experts (SMoE) models. By formulating token-to-expert assignment as an optimal transport problem with balancing constraints, SSR derives gating assignments directly from a transport map - eliminating the need for auxiliary balancing losses or additional trainable noise. The method promotes balanced expert utilization while preserving flexibility, resulting in faster training, improved accuracy, and greater robustness across language modeling and image-classification tasks. This work introduces a new family of balancing strategies for efficient SMoE training.'
 date: 2025-01-01
 venue: 'U.S. Patent Application (Filed), Qualcomm'
 paperurl: 'https://arxiv.org/abs/2511.08972'
