@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Duc Anh Nguyen"
+title: "Duc-Anh Nguyen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! My name is Duc Anh Nguyen. In Vietnamese, my name is written as Nguyễn Đức Ánh. You can call me Duc Anh for short.
+Hi! My name is Duc-Anh Nguyen. In Vietnamese, my name is written as Nguyễn Đức Ánh. You can call me Duc-Anh for short.
 
 I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), where I have the great chances to work under the guidance of [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
 
@@ -183,19 +183,20 @@ My research aims to uncover the fundamental mathematical principles governing st
 </div>
 
 ### Publications & Patents
-
 <p>
-  1. <strong>Selected Beautiful Math Problems from International Competitions (Geometry)</strong> [Book]<br>
-  Nguyen Duy Khuong, Phan Quang Tri, Tran Quoc Dung, Nguyen Duong Minh, Pham Nguyen Phuc Long, <u>Duc Anh Nguyen</u><br>
-  Vietnam National University Press, 2025
-  <!-- <!-- Add badges when links are available: -->
-  <a href="https://drive.google.com/file/d/11iBy1LXa9kCDdZpR4-t7JqLP5qB-e0oT/view?usp=sharing" class="badge badge-blue">link</a>
+  1. <strong>Artificial Intelligence in Metal Additive Manufacturing: Current Status, Challenges, and Future Developments.</strong><br>
+  <u>Duc-Anh Nguyen</u>*, Bui Truong Giang Le*, Van Anh Nguyen, Minh Tuan Vu, Manh Ha Bui, Minh Thanh Le, Trong Duc Nguyen, Tien Dung Hoang, Xuan Hai Le<br>
+  Journal of Intelligent Manufacturing (Q1), Impact Factor: 7.4, 2025.
+  <!-- Add badges when links are available:
+  <a href="https://your-link.com" class="badge badge-blue">link</a>
+  <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a>
+  -->
 </p>
 
 <p>
   2. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
-  <u>Duc Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
-  U.S. Patent Application (Filed), Qualcomm, 2025
+  <u>Duc-Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
+  U.S. Patent Application (Filed), Qualcomm, 2025  
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
   <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
@@ -203,8 +204,16 @@ My research aims to uncover the fundamental mathematical principles governing st
 </p>
 
 <p>
-  3. <strong>Determinants of Credit Risk under the Basel II Accord: A Case Study of the Vietnamese Banking Sector.</strong><br>
-  Ngo Thu Giang, <u>Duc Anh Nguyen</u>, Vu Thi Thao Chi, Nguyen Bao Anh, Nguyen Tai Quang Dinh<br>
+  3. <strong>Selected Beautiful Math Problems from International Competitions (Geometry)</strong> [Book]<br>
+  Nguyen Duy Khuong, Phan Quang Tri, Tran Quoc Dung, Nguyen Duong Minh, Pham Nguyen Phuc Long, <u>Duc-Anh Nguyen</u><br>
+  Vietnam National University Press, 2025
+  <!-- <!-- Add badges when links are available: -->
+  <a href="https://drive.google.com/file/d/11iBy1LXa9kCDdZpR4-t7JqLP5qB-e0oT/view?usp=sharing" class="badge badge-blue">link</a>
+</p>
+
+<p>
+  4. <strong>Determinants of Credit Risk under the Basel II Accord: A Case Study of the Vietnamese Banking Sector.</strong><br>
+  Ngo Thu Giang, <u>Duc-Anh Nguyen</u>, Vu Thi Thao Chi, Nguyen Bao Anh, Nguyen Tai Quang Dinh<br>
   International Conference on Emerging Challenges in Economics and Business (ICECH 2023)
   <!-- <!-- Add badges when links are available: -->
   <a href="https://www.atlantis-press.com/proceedings/icech-23/125997574" class="badge badge-blue">link</a>
@@ -212,8 +221,8 @@ My research aims to uncover the fundamental mathematical principles governing st
 </p>
 
 <p>
-  4. <strong>Adaptive Conflict-Averse Multi-gradient Descent for Multi-objective Learning.</strong><br>
-  Dinh Van Tuan, Tran Anh Tuan, <u>Duc Anh Nguyen</u>, Bui Khuong Duy, Tran Ngoc Thang<br>
+  5. <strong>Adaptive Conflict-Averse Multi-gradient Descent for Multi-objective Learning.</strong><br>
+  Dinh Van Tuan, Tran Anh Tuan, <u>Duc-Anh Nguyen</u>, Bui Khuong Duy, Tran Ngoc Thang<br>
   International Conference on Intelligence of Things (ICIT 2023)
   <!-- <!-- Add badges when links are available: -->
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-46573-4_6" class="badge badge-blue">link</a>
@@ -222,8 +231,8 @@ My research aims to uncover the fundamental mathematical principles governing st
 </p>
 
 <p>
-  5. <strong>Exploration of Plane Geometry</strong> [Book]<br>
-  Le Xuan Hoang, <u>Duc Anh Nguyen</u><br>
+  6. <strong>Exploration of Plane Geometry</strong> [Book]<br>
+  Le Xuan Hoang, <u>Duc-Anh Nguyen</u><br>
   Vietnam National University Press, 2022
   <!-- <!-- Add badges when links are available: -->
   <a href="https://drive.google.com/file/d/1AVRHtfeq6b0yQe65mJ_hdn9Fux6qgsmK/view?usp=sharing" class="badge badge-blue">link</a>
@@ -233,7 +242,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 <p>
   1. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
-  <u>Duc Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
+  <u>Duc-Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
@@ -243,7 +252,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 <p>
   2. <strong>Incremental attribute reduction on dynamic decision tables with intuitionistic fuzzy weighted neighborhood rough sets.</strong><br>
-  Viet Anh Pham, Ngoc Thuy Nguyen, <u>Duc Anh Nguyen</u>, Long Giang Nguyen<br>
+  Viet Anh Pham, Ngoc Thuy Nguyen, <u>Duc-Anh Nguyen</u>, Long Giang Nguyen<br>
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
@@ -253,7 +262,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 <p>
   3. <strong>Artificial Intelligence for Metal Material Science: Challenges, Solutions, and Future Developments.</strong><br>
-  Bui Truong Giang Le*, <u>Duc Anh Nguyen</u>*, Minh Tuan Vu, Phan Anh Tran, Trong Duc Nguyen, Minh Thanh Le, Khue Nguyen Vo Ngoc, Duy Hung Tran, Van Anh Nguyen, Dung Hoang Tien<br>
+  Bui Truong Giang Le*, <u>Duc-Anh Nguyen</u>*, Minh Tuan Vu, Phan Anh Tran, Trong Duc Nguyen, Minh Thanh Le, Khue Nguyen Vo Ngoc, Duy Hung Tran, Van Anh Nguyen, Dung Hoang Tien<br>
   Under review, 2025
   <!-- Add badges when links are available:
   <a href="https://your-link.com" class="badge badge-blue">link</a>
@@ -262,18 +271,8 @@ My research aims to uncover the fundamental mathematical principles governing st
 </p>
 
 <p>
-  4. <strong>Artificial Intelligence in Metal Additive Manufacturing: Current Status, Challenges, and Future Developments.</strong><br>
-  <u>Duc Anh Nguyen</u>*, Bui Truong Giang Le*, Van Anh Nguyen, Minh Tuan Vu, Manh Ha Bui, Minh Thanh Le, Trong Duc Nguyen, Tien Dung Hoang, Xuan Hai Le<br>
-  Under review, 2025
-  <!-- Add badges when links are available:
-  <a href="https://your-link.com" class="badge badge-blue">link</a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a>
-  -->
-</p>
-
-<p>
-  5. <strong>A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems.</strong><br>
-  <u>Duc Anh Nguyen</u>, Tran Ngoc Thang<br>
+  4. <strong>A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems.</strong><br>
+  <u>Duc-Anh Nguyen</u>, Tran Ngoc Thang<br>
   Under review, 2025
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->

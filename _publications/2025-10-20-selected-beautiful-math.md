@@ -6,12 +6,12 @@ excerpt: 'This book presents a curated collection of challenging and elegant geo
 date: 2025-10-20
 venue: 'Vietnam National University Press'
 paperurl: 'https://drive.google.com/file/d/11iBy1LXa9kCDdZpR4-t7JqLP5qB-e0oT/view?usp=sharing'
-citation: 'Nguyen Duy Khuong, Phan Quang Tri, Tran Quoc Dung, Nguyen Duong Minh, Pham Nguyen Phuc Long, Duc Anh Nguyen. (2025). <i>Selected Beautiful Math Problems from International Competitions (Geometry)</i>. Vietnam National University Press. 2025.'
+citation: 'Nguyen Duy Khuong, Phan Quang Tri, Tran Quoc Dung, Nguyen Duong Minh, Pham Nguyen Phuc Long, Duc-Anh Nguyen. (2025). <i>Selected Beautiful Math Problems from International Competitions (Geometry)</i>. Vietnam National University Press. 2025.'
 ---
 
 <p>
   <strong>Selected Beautiful Math Problems from International Competitions (Geometry)</strong> [Book]<br>
-  Nguyen Duy Khuong, Phan Quang Tri, Tran Quoc Dung, Nguyen Duong Minh, Pham Nguyen Phuc Long, <u>Duc Anh Nguyen</u><br>
+  Nguyen Duy Khuong, Phan Quang Tri, Tran Quoc Dung, Nguyen Duong Minh, Pham Nguyen Phuc Long, <u>Duc-Anh Nguyen</u><br>
   Vietnam National University Press, 2025
   <!-- <!-- Add badges when links are available: -->
   <a href="https://drive.google.com/file/d/11iBy1LXa9kCDdZpR4-t7JqLP5qB-e0oT/view?usp=sharing" class="badge badge-blue">link</a>
