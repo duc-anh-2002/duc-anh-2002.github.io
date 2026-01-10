@@ -190,13 +190,12 @@ My research aims to uncover the fundamental mathematical principles governing st
   <!-- <!-- Add badges when links are available: -->
   <a href="https://link.springer.com/article/10.1007/s10845-025-02771-6" class="badge badge-blue">link</a>
   <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a> -->
-  -->
 </p>
 
 <p>
   2. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
   <u>Duc-Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
-  U.S. Patent Application (Filed), Qualcomm, 2025  
+  Approved for Filing U.S. Patent, Qualcomm, 2025  
   <!-- <!-- Add badges when links are available: -->
   <!-- <a href="https://your-link.com" class="badge badge-blue">link</a> -->
   <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
