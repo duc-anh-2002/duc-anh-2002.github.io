@@ -187,9 +187,9 @@ My research aims to uncover the fundamental mathematical principles governing st
   1. <strong>Artificial Intelligence in Metal Additive Manufacturing: Current Status, Challenges, and Future Developments.</strong><br>
   <u>Duc-Anh Nguyen</u>*, Bui Truong Giang Le*, Van Anh Nguyen, Minh Tuan Vu, Manh Ha Bui, Minh Thanh Le, Trong Duc Nguyen, Tien Dung Hoang, Xuan Hai Le<br>
   Journal of Intelligent Manufacturing (Q1), Impact Factor: 7.4, 2025.
-  <!-- Add badges when links are available:
-  <a href="https://your-link.com" class="badge badge-blue">link</a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a>
+  <!-- <!-- Add badges when links are available: -->
+  <a href="https://link.springer.com/article/10.1007/s10845-025-02771-6" class="badge badge-blue">link</a>
+  <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX" class="badge badge-green">arXiv</a> -->
   -->
 </p>
 
