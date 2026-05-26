@@ -369,11 +369,11 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
    ========================================================================== */
 
 .news-scroll {
-  max-height: 280px;
+  max-height: 450px;
   overflow-y: auto;
   border: 1px solid var(--global-border-color);
   border-radius: 6px;
-  padding: 0.5em 0.5em 0.5em 1.5em;
+  padding: 0.75em 1em;
   margin: 1em 0;
   scrollbar-width: thin;
   scrollbar-color: var(--global-link-color) transparent;
@@ -391,12 +391,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
   ul {
     margin: 0;
-    padding-left: 1em;
-    list-style: disc;
+    padding-left: 0;
+    list-style: none;
   }
 
   li {
-    padding: 0.3em 0;
+    padding: 0.35em 0;
     font-size: 0.95em;
     line-height: 1.5;
   }

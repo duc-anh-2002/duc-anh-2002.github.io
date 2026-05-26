@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Duc-Anh Nguyen (Anh is my first name & Duc is my middle name). In Vietnamese, my name is written as Nguyễn Đức Ánh. You can call me Duc Anh for short.
+Thank you for visiting! My name is Duc-Anh Nguyen (Anh is my first name & Duc is my middle name). In Vietnamese, my name is written as Nguyễn Đức Ánh. You can call me Duc Anh for short.
 
 I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), where I have the great chances to work under the guidance of [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
 
 
-(💡 You can switch between dark & light mode by clicking the button on the right of the CV tab!)
+(💡 You can switch between dark & light mode by clicking the button on the right of the CV)
 
 ## Research Interest
 
@@ -28,20 +28,20 @@ My research aims to uncover the fundamental mathematical principles governing st
   <li><strong>[Feb 2025]</strong> 📝 New preprint on <a href="https://arxiv.org/abs/2502.02010">arXiv</a>: <em>"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."</em></li>
   <li><strong>[Sep 2024]</strong> 🏆 Graduated as <strong>Valedictorian</strong> (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics.</li>
   <li><strong>[Mar 2024]</strong> 💼 Joined <strong>VinAI Research</strong> (now Qualcomm AI Research) as an AI Research Resident.</li>
-  <li><strong>[Jan 2024]</strong> 🎖️ Received the <strong>"Five-Good Student" Award</strong> from Hanoi City, Vietnam.</li>
+  <!-- <li><strong>[Jan 2024]</strong> 🎖️ Received the <strong>"Five-Good Student" Award</strong> from Hanoi City, Vietnam.</li> -->
   <li><strong>[Nov 2023]</strong> 🥇 Won <strong>Gold Medal</strong> at the International Youth Math Challenge (top 2%).</li>
   <li><strong>[Nov 2023]</strong> 🏅 Awarded <strong>VIASM Scholarship</strong> from the Vietnam Institute for Advanced Study in Mathematics.</li>
   <li><strong>[Aug 2023]</strong> 🥉 Won <strong>Third Prize</strong> at VIASM Summer School "Research Experiences for Undergraduates".</li>
   <li><strong>[Jun 2022]</strong> 🥇 Won <strong>Gold Medal</strong> at the Iranian Combinatorics Olympiad.</li>
   <li><strong>[Mar 2022]</strong> 📚 Started research at HATLAB, HUST under Dr. Thang Tran Ngoc.</li>
-  <li><strong>[Jan 2022]</strong> 🎯 Completed advanced coursework in Functional Analysis and Measure Theory.</li>
+  <!-- <li><strong>[Jan 2022]</strong> 🎯 Completed advanced coursework in Functional Analysis and Measure Theory.</li>
   <li><strong>[Nov 2021]</strong> 🏅 Received <strong>Merit Scholarship</strong> for Academic Excellence (Semester 3).</li>
   <li><strong>[Sep 2021]</strong> 📖 Co-authored book <em>"Exploration of Plane Geometry"</em> (Vietnam National University Press).</li>
   <li><strong>[Jun 2021]</strong> 🏅 Received <strong>Merit Scholarship</strong> for Academic Excellence (Semester 2).</li>
   <li><strong>[Jan 2021]</strong> 🏅 Received <strong>Merit Scholarship</strong> for Academic Excellence (Semester 1).</li>
   <li><strong>[Oct 2020]</strong> 🎒 Started B.Sc in Mathematics and Informatics at HUST.</li>
   <li><strong>[Nov 2019]</strong> 🥈 Won <strong>Silver Medal</strong> at the Iranian Geometry Olympiad (ranked 22nd globally).</li>
-  <li><strong>[Sep 2017]</strong> 🏫 Enrolled at High School for Gifted Students, VNU University of Science (HSGS).</li>
+  <li><strong>[Sep 2017]</strong> 🏫 Enrolled at High School for Gifted Students, VNU University of Science (HSGS).</li> -->
 </ul>
 </div>
 
