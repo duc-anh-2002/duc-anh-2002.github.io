@@ -94,11 +94,11 @@ My research aims to uncover the fundamental mathematical principles governing st
     <div style="flex: 1; min-width: 250px;">
       <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">Research Intern</h3>
       <p style="margin: 0.25em 0; font-weight: 600;">
-        <a href="https://wing.comp.nus.edu.sg/" target="_blank">Web Information Retrieval / Natural Language Processing Group (WING)</a>, National University of Singapore
+        <a href="https://wing.comp.nus.edu.sg/" target="_blank">NUS Web IR / NLP Group (WING)</a>
       </p>
       <p style="margin-top: 0.75em; margin-bottom: 0; color: var(--global-text-color-light); font-size: 0.95em;">
         <strong>Supervisors:</strong> <a href="https://dxlong2000.github.io/" target="_blank">Dr. Do Xuan Long</a>, <a href="https://www.comp.nus.edu.sg/~kanmy/" target="_blank">Prof. Min-Yen Kan</a><br>
-        <strong>Research Topic:</strong> Test-time Self-improvement Methods for AI Agents
+        <strong>Research Topic:</strong> Test-time Methods for Agents
       </p>
     </div>
     <div style="text-align: right; color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em; margin-top: 0.25em;">
