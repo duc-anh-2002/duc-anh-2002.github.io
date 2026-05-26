@@ -31,6 +31,15 @@ My research aims to uncover the fundamental mathematical principles governing st
 * **\[Nov 2023\]** 🏅 Awarded **VIASM Scholarship** from the Vietnam Institute for Advanced Study in Mathematics.
 * **\[Aug 2023\]** 🥉 Won **Third Prize** at VIASM Summer School "Research Experiences for Undergraduates".
 * **\[Jun 2022\]** 🥇 Won **Gold Medal** at the Iranian Combinatorics Olympiad.
+* **\[Mar 2022\]** 📚 Started research at HATLAB, HUST under Dr. Thang Tran Ngoc.
+* **\[Jan 2022\]** 🎯 Completed advanced coursework in Functional Analysis and Measure Theory.
+* **\[Nov 2021\]** 🏅 Received **Merit Scholarship** for Academic Excellence (Semester 3).
+* **\[Sep 2021\]** 📖 Co-authored book *"Exploration of Plane Geometry"* (Vietnam National University Press).
+* **\[Jun 2021\]** 🏅 Received **Merit Scholarship** for Academic Excellence (Semester 2).
+* **\[Jan 2021\]** 🏅 Received **Merit Scholarship** for Academic Excellence (Semester 1).
+* **\[Oct 2020\]** 🎒 Started B.Sc in Mathematics and Informatics at HUST.
+* **\[Nov 2019\]** 🥈 Won **Silver Medal** at the Iranian Geometry Olympiad (ranked 22nd globally).
+* **\[Sep 2017\]** 🏫 Enrolled at High School for Gifted Students, VNU University of Science (HSGS).
 
 ## Education
 
