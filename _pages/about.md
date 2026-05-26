@@ -24,11 +24,47 @@ My research aims to uncover the fundamental mathematical principles governing st
   <div class="news-section__body">
     <div class="news-item news-item--highlight">
       <span class="news-item__date">Jan 2026</span>
-      <span class="news-item__text">🎉 I have been admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</span>
+      <span class="news-item__text">🎓 I have been admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">May 2025</span>
+      <span class="news-item__text">📄 Our paper <em>"AI in Metal Additive Manufacturing"</em> is published in <strong>Journal of Intelligent Manufacturing</strong> (Q1, IF: 7.4).</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">May 2025</span>
+      <span class="news-item__text">📋 Our patent <em>"Selective Sinkhorn Routing"</em> is approved for filing at Qualcomm.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">Feb 2025</span>
+      <span class="news-item__text">📝 New preprint on <a href="https://arxiv.org/abs/2502.02010">arXiv</a>: <em>"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."</em></span>
     </div>
     <div class="news-item">
       <span class="news-item__date">Sep 2024</span>
-      <span class="news-item__text">Graduated as <strong>Valedictorian</strong> (Ranked 1st) from Hanoi University of Science and Technology with B.Sc in Mathematics and Informatics.</span>
+      <span class="news-item__text">🏆 Graduated as <strong>Valedictorian</strong> (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">Mar 2024</span>
+      <span class="news-item__text">💼 Joined <strong>VinAI Research</strong> (now Qualcomm AI Research) as an AI Research Resident.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">Jan 2024</span>
+      <span class="news-item__text">🎖️ Received the <strong>"Five-Good Student" Award</strong> from Hanoi City, Vietnam.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">Nov 2023</span>
+      <span class="news-item__text">🥇 Won <strong>Gold Medal</strong> at the International Youth Math Challenge (top 2%).</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">Nov 2023</span>
+      <span class="news-item__text">🏅 Awarded <strong>VIASM Scholarship</strong> from the Vietnam Institute for Advanced Study in Mathematics.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">Aug 2023</span>
+      <span class="news-item__text">🥉 Won <strong>Third Prize</strong> at VIASM Summer School "Research Experiences for Undergraduates".</span>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">Jun 2022</span>
+      <span class="news-item__text">🥇 Won <strong>Gold Medal</strong> at the Iranian Combinatorics Olympiad.</span>
     </div>
   </div>
 </div>

@@ -370,12 +370,30 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 .news-section {
   margin: 1.5em 0;
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  overflow: hidden;
 }
 
 .news-section__body {
   display: flex;
   flex-direction: column;
-  gap: 0.5em;
+  max-height: 250px;
+  overflow-y: auto;
+  padding: 0.4em 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--global-link-color) transparent;
+
+  &::-webkit-scrollbar {
+    width: 4px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: var(--global-link-color);
+    border-radius: 4px;
+  }
 }
 
 .news-item {
