@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting! My name is Duc-Anh Nguyen. In Vietnamese, my name is written as Nguyễn Đức Ánh. You can call me Duc Anh for short.
-
+Thank you for visiting! My name is Duc-Anh Nguyen. You can call me Duc Anh for short.
+<!-- In Vietnamese, my name is written as Nguyễn Đức Ánh. -->
 I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), where I have the great chances to work under the guidance of [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) 
 and [Dr. Tung Pham](https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works).
 <!-- https://tanmnguyen89.github.io/ -->
