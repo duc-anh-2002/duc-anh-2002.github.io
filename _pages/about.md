@@ -116,7 +116,7 @@ My research aims to uncover the fundamental mathematical principles governing st
         VinAI Research (acquired by Qualcomm)
       </p>
       <p style="margin-top: 0.75em; margin-bottom: 0; color: var(--global-text-color-light); font-size: 0.95em;">
-        <strong>Supervisors:</strong> <a href="https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi" target="_blank">Dr. Toan Tran</a>, <a href="https://tanmnguyen89.github.io/" target="_blank">Assistant Professor Tan Minh Nguyen</a><br>
+        <strong>Supervisors:</strong> <a href="https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi" target="_blank">Dr. Toan Tran</a>, <a href="https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works" target="_blank">Dr. Tung Pham</a><br>
         <strong>Research Topic:</strong> Efficiency, Scalability, and Robustness of Foundation Models (State-Space Models and Sparse Mixture of Experts)
       </p>
     </div>
