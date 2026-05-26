@@ -46,7 +46,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 </ul>
 </div>
 
-## Education
+## Educations
 
 <div class="education-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
@@ -87,7 +87,7 @@ My research aims to uncover the fundamental mathematical principles governing st
   </div>
 </div>
 
-## Research Experience
+## Selected Research Experiences
 
 <div class="research-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
