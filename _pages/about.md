@@ -26,7 +26,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
   <li><strong>[Jan 2026]</strong> 🎓 I am thrilled to be admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</li>
   <li><strong>[Jan 2026]</strong> 📋 Our paper <em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em> is approved for patent filing at Qualcomm. Paper coming soon!</li>
   <li><strong>[Jan 2026]</strong> 📄 Our paper on <a href="https://link.springer.com/article/10.1007/s10845-025-02771-6"><em>"AI in Metal Additive Manufacturing"</em></a> is published in <strong>Journal of Intelligent Manufacturing</strong> (Q1, IF: 7.4).</li>
-  <li><strong>[Aug 2025]</strong> 📋 Our paper <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> is available on arXiV and is approved for patent filing at Qualcomm.</li>
+  <li><strong>[Nov 2025]</strong> 📋 Our paper <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> is available on arXiV and is approved for patent filing at Qualcomm.</li>
   <li><strong>[Feb 2025]</strong> 📝 Our new preprint is on <a href="https://arxiv.org/abs/2502.02010">arXiv</a>: <em>"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."</em></li>
   <li><strong>[Sep 2024]</strong> 🏆 I graduated as <strong>Valedictorian</strong> (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics!</li>
   <li><strong>[Mar 2024]</strong> 💼 I joined <strong>VinAI Research</strong> (now <strong>Qualcomm AI Research</strong>) as an AI Research Resident.</li>
