@@ -28,7 +28,7 @@ My research aims to uncover the fundamental mathematical principles governing st
   <li><strong>[May 2025]</strong> 📋 Our patent <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> is approved for filing at Qualcomm.</li>
   <li><strong>[Feb 2025]</strong> 📝 Our new preprint is on <a href="https://arxiv.org/abs/2502.02010">arXiv</a>: <em>"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."</em></li>
   <li><strong>[Sep 2024]</strong> 🏆 I graduated as <strong>Valedictorian</strong> (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics!</li>
-  <li><strong>[Mar 2024]</strong> 💼 I joined <strong>VinAI Research</strong> (now Qualcomm AI Research) as an AI Research Resident.</li>
+  <li><strong>[Mar 2024]</strong> 💼 I joined <strong>VinAI Research</strong> (now <strong>Qualcomm AI Research</strong>) as an AI Research Resident.</li>
   <!-- <li><strong>[Jan 2024]</strong> 🎖️ I received the <strong>"Five-Good Student" Award</strong> from Hanoi City, Vietnam.</li> -->
   <li><strong>[Nov 2023]</strong> 🥇 I won a <strong>Gold Medal</strong> at the International Youth Math Challenge!</li>
   <li><strong>[Nov 2023]</strong> 🏅 I was awarded the <strong>VIASM Scholarship</strong> from the Vietnam Institute for Advanced Study in Mathematics.</li>
