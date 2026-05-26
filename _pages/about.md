@@ -31,7 +31,7 @@ My research aims to uncover the fundamental mathematical principles governing st
   <!-- <li><strong>[Jan 2024]</strong> 🎖️ I received the <strong>"Five-Good Student" Award</strong> from Hanoi City, Vietnam.</li> -->
   <li><strong>[Nov 2023]</strong> 🥇 I won a <strong>Gold Medal</strong> at the International Youth Math Challenge!</li>
   <li><strong>[Nov 2023]</strong> 🏅 I was awarded the <strong>VIASM Scholarship</strong> from the Vietnam Institute for Advanced Study in Mathematics.</li>
-  <li><strong>[Aug 2023]</strong> 🥉 Our team won <strong>Third Prize</strong> at VIASM Summer School "Research Experiences for Undergraduates".</li>
+  <li><strong>[Aug 2023]</strong> 🥉 I was awarded the <strong>Third Prize</strong> at VIASM Summer School "Research Experiences for Undergraduates".</li>
   <li><strong>[Jun 2022]</strong> 🥇 I won a <strong>Gold Medal</strong> at the Iranian Combinatorics Olympiad!</li>
   <li><strong>[Mar 2022]</strong> 📚 I started my research journey at HATLAB, HUST under Dr. Thang Tran Ngoc.</li>
   <!-- <li><strong>[Jan 2022]</strong> 🎯 Completed advanced coursework in Functional Analysis and Measure Theory.</li>
