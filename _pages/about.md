@@ -14,8 +14,9 @@ I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Rese
 <!-- (💡 You can switch between dark & light mode by clicking the button on the right of the CV) -->
 
 ## Research Interest
-
-My research aims to uncover the fundamental mathematical principles governing state-of-the-art foundation models, leveraging these theoretical insights to build the next generation of **efficient, interpretable, and robust Large Language Models** and **Vision-Language Models**.
+My research focuses on uncovering the mathematical principles underlying foundation models, leveraging these insights to design efficient, interpretable, and robust LLMs and VLMs, with an emphasis on optimization, sparse modular architectures, and transfer learning.
+<!-- % \vspace{-1em} -->
+<!-- My research aims to uncover the fundamental mathematical principles governing state-of-the-art foundation models, leveraging these theoretical insights to build the next generation of **efficient, interpretable, and robust Large Language Models** and **Vision-Language Models**. -->
 
 ## News
 
