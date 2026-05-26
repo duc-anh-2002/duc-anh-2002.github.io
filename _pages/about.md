@@ -22,6 +22,7 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 <div class="news-scroll">
 <ul>
+  <li><strong>[Mar 2026]</strong> 🎓 I am thrilled to be admitted to <strong>Tufts University</strong> for a PhD in ECE and <strong>National University of Singapore (NUS)</strong> for a PhD in CS!</li>
   <li><strong>[Jan 2026]</strong> 🎓 I am thrilled to be admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</li>
   <li><strong>[May 2025]</strong> 📄 Our paper on <a href="https://link.springer.com/article/10.1007/s10845-025-02771-6"><em>"AI in Metal Additive Manufacturing"</em></a> is published in <strong>Journal of Intelligent Manufacturing</strong> (Q1, IF: 7.4).</li>
   <li><strong>[May 2025]</strong> 📋 Our patent <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> is approved for filing at Qualcomm.</li>
