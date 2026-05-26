@@ -363,3 +363,41 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+
+/* ==========================================================================
+   NEWS SCROLL
+   ========================================================================== */
+
+.news-scroll {
+  max-height: 280px;
+  overflow-y: auto;
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  padding: 0.5em 0.5em 0.5em 1.5em;
+  margin: 1em 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--global-link-color) transparent;
+
+  &::-webkit-scrollbar {
+    width: 5px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: var(--global-link-color);
+    border-radius: 4px;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1em;
+    list-style: disc;
+  }
+
+  li {
+    padding: 0.3em 0;
+    font-size: 0.95em;
+    line-height: 1.5;
+  }
+}

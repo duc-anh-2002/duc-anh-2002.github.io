@@ -20,26 +20,30 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 ## News
 
-* **\[Jan 2026\]** 🎓 I have been admitted to the **University of Virginia** as a PhD student in Computer Science, starting Fall 2026!
-* **\[May 2025\]** 📄 Our paper *"AI in Metal Additive Manufacturing"* is published in **Journal of Intelligent Manufacturing** (Q1, IF: 7.4).
-* **\[May 2025\]** 📋 Our patent *"Selective Sinkhorn Routing"* is approved for filing at Qualcomm.
-* **\[Feb 2025\]** 📝 New preprint on [arXiv](https://arxiv.org/abs/2502.02010): *"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."*
-* **\[Sep 2024\]** 🏆 Graduated as **Valedictorian** (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics.
-* **\[Mar 2024\]** 💼 Joined **VinAI Research** (now Qualcomm AI Research) as an AI Research Resident.
-* **\[Jan 2024\]** 🎖️ Received the **"Five-Good Student" Award** from Hanoi City, Vietnam.
-* **\[Nov 2023\]** 🥇 Won **Gold Medal** at the International Youth Math Challenge (top 2%).
-* **\[Nov 2023\]** 🏅 Awarded **VIASM Scholarship** from the Vietnam Institute for Advanced Study in Mathematics.
-* **\[Aug 2023\]** 🥉 Won **Third Prize** at VIASM Summer School "Research Experiences for Undergraduates".
-* **\[Jun 2022\]** 🥇 Won **Gold Medal** at the Iranian Combinatorics Olympiad.
-* **\[Mar 2022\]** 📚 Started research at HATLAB, HUST under Dr. Thang Tran Ngoc.
-* **\[Jan 2022\]** 🎯 Completed advanced coursework in Functional Analysis and Measure Theory.
-* **\[Nov 2021\]** 🏅 Received **Merit Scholarship** for Academic Excellence (Semester 3).
-* **\[Sep 2021\]** 📖 Co-authored book *"Exploration of Plane Geometry"* (Vietnam National University Press).
-* **\[Jun 2021\]** 🏅 Received **Merit Scholarship** for Academic Excellence (Semester 2).
-* **\[Jan 2021\]** 🏅 Received **Merit Scholarship** for Academic Excellence (Semester 1).
-* **\[Oct 2020\]** 🎒 Started B.Sc in Mathematics and Informatics at HUST.
-* **\[Nov 2019\]** 🥈 Won **Silver Medal** at the Iranian Geometry Olympiad (ranked 22nd globally).
-* **\[Sep 2017\]** 🏫 Enrolled at High School for Gifted Students, VNU University of Science (HSGS).
+<div class="news-scroll">
+<ul>
+  <li><strong>[Jan 2026]</strong> 🎓 I have been admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</li>
+  <li><strong>[May 2025]</strong> 📄 Our paper <em>"AI in Metal Additive Manufacturing"</em> is published in <strong>Journal of Intelligent Manufacturing</strong> (Q1, IF: 7.4).</li>
+  <li><strong>[May 2025]</strong> 📋 Our patent <em>"Selective Sinkhorn Routing"</em> is approved for filing at Qualcomm.</li>
+  <li><strong>[Feb 2025]</strong> 📝 New preprint on <a href="https://arxiv.org/abs/2502.02010">arXiv</a>: <em>"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."</em></li>
+  <li><strong>[Sep 2024]</strong> 🏆 Graduated as <strong>Valedictorian</strong> (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics.</li>
+  <li><strong>[Mar 2024]</strong> 💼 Joined <strong>VinAI Research</strong> (now Qualcomm AI Research) as an AI Research Resident.</li>
+  <li><strong>[Jan 2024]</strong> 🎖️ Received the <strong>"Five-Good Student" Award</strong> from Hanoi City, Vietnam.</li>
+  <li><strong>[Nov 2023]</strong> 🥇 Won <strong>Gold Medal</strong> at the International Youth Math Challenge (top 2%).</li>
+  <li><strong>[Nov 2023]</strong> 🏅 Awarded <strong>VIASM Scholarship</strong> from the Vietnam Institute for Advanced Study in Mathematics.</li>
+  <li><strong>[Aug 2023]</strong> 🥉 Won <strong>Third Prize</strong> at VIASM Summer School "Research Experiences for Undergraduates".</li>
+  <li><strong>[Jun 2022]</strong> 🥇 Won <strong>Gold Medal</strong> at the Iranian Combinatorics Olympiad.</li>
+  <li><strong>[Mar 2022]</strong> 📚 Started research at HATLAB, HUST under Dr. Thang Tran Ngoc.</li>
+  <li><strong>[Jan 2022]</strong> 🎯 Completed advanced coursework in Functional Analysis and Measure Theory.</li>
+  <li><strong>[Nov 2021]</strong> 🏅 Received <strong>Merit Scholarship</strong> for Academic Excellence (Semester 3).</li>
+  <li><strong>[Sep 2021]</strong> 📖 Co-authored book <em>"Exploration of Plane Geometry"</em> (Vietnam National University Press).</li>
+  <li><strong>[Jun 2021]</strong> 🏅 Received <strong>Merit Scholarship</strong> for Academic Excellence (Semester 2).</li>
+  <li><strong>[Jan 2021]</strong> 🏅 Received <strong>Merit Scholarship</strong> for Academic Excellence (Semester 1).</li>
+  <li><strong>[Oct 2020]</strong> 🎒 Started B.Sc in Mathematics and Informatics at HUST.</li>
+  <li><strong>[Nov 2019]</strong> 🥈 Won <strong>Silver Medal</strong> at the Iranian Geometry Olympiad (ranked 22nd globally).</li>
+  <li><strong>[Sep 2017]</strong> 🏫 Enrolled at High School for Gifted Students, VNU University of Science (HSGS).</li>
+</ul>
+</div>
 
 ## Education
 
