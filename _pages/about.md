@@ -92,6 +92,25 @@ My research aims to uncover the fundamental mathematical principles governing st
 <div class="research-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
     <div style="flex: 1; min-width: 250px;">
+      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">Research Intern</h3>
+      <p style="margin: 0.25em 0; font-weight: 600;">
+        <a href="https://wing.comp.nus.edu.sg/" target="_blank">Web Information Retrieval / Natural Language Processing Group (WING)</a>, National University of Singapore
+      </p>
+      <p style="margin-top: 0.75em; margin-bottom: 0; color: var(--global-text-color-light); font-size: 0.95em;">
+        <strong>Supervisors:</strong> <a href="https://dxlong2000.github.io/" target="_blank">Dr. Do Xuan Long</a>, <a href="https://www.comp.nus.edu.sg/~kanmy/" target="_blank">Prof. Min-Yen Kan</a><br>
+        <strong>Research Topic:</strong> Test-time Self-improvement Methods for AI Agents
+      </p>
+    </div>
+    <div style="text-align: right; color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em; margin-top: 0.25em;">
+      <em>Jul 2025 – Present</em><br>
+      <em>Singapore</em>
+    </div>
+  </div>
+</div>
+
+<div class="research-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
+    <div style="flex: 1; min-width: 250px;">
       <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">AI Research Resident</h3>
       <p style="margin: 0.25em 0; font-weight: 600;">
         VinAI Research (acquired by Qualcomm)
