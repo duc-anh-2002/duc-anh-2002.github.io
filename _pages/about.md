@@ -20,54 +20,17 @@ My research aims to uncover the fundamental mathematical principles governing st
 
 ## News
 
-<div class="news-section">
-  <div class="news-section__body">
-    <div class="news-item news-item--highlight">
-      <span class="news-item__date">Jan 2026</span>
-      <span class="news-item__text">🎓 I have been admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">May 2025</span>
-      <span class="news-item__text">📄 Our paper <em>"AI in Metal Additive Manufacturing"</em> is published in <strong>Journal of Intelligent Manufacturing</strong> (Q1, IF: 7.4).</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">May 2025</span>
-      <span class="news-item__text">📋 Our patent <em>"Selective Sinkhorn Routing"</em> is approved for filing at Qualcomm.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Feb 2025</span>
-      <span class="news-item__text">📝 New preprint on <a href="https://arxiv.org/abs/2502.02010">arXiv</a>: <em>"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."</em></span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Sep 2024</span>
-      <span class="news-item__text">🏆 Graduated as <strong>Valedictorian</strong> (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Mar 2024</span>
-      <span class="news-item__text">💼 Joined <strong>VinAI Research</strong> (now Qualcomm AI Research) as an AI Research Resident.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Jan 2024</span>
-      <span class="news-item__text">🎖️ Received the <strong>"Five-Good Student" Award</strong> from Hanoi City, Vietnam.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Nov 2023</span>
-      <span class="news-item__text">🥇 Won <strong>Gold Medal</strong> at the International Youth Math Challenge (top 2%).</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Nov 2023</span>
-      <span class="news-item__text">🏅 Awarded <strong>VIASM Scholarship</strong> from the Vietnam Institute for Advanced Study in Mathematics.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Aug 2023</span>
-      <span class="news-item__text">🥉 Won <strong>Third Prize</strong> at VIASM Summer School "Research Experiences for Undergraduates".</span>
-    </div>
-    <div class="news-item">
-      <span class="news-item__date">Jun 2022</span>
-      <span class="news-item__text">🥇 Won <strong>Gold Medal</strong> at the Iranian Combinatorics Olympiad.</span>
-    </div>
-  </div>
-</div>
+* **\[Jan 2026\]** 🎓 I have been admitted to the **University of Virginia** as a PhD student in Computer Science, starting Fall 2026!
+* **\[May 2025\]** 📄 Our paper *"AI in Metal Additive Manufacturing"* is published in **Journal of Intelligent Manufacturing** (Q1, IF: 7.4).
+* **\[May 2025\]** 📋 Our patent *"Selective Sinkhorn Routing"* is approved for filing at Qualcomm.
+* **\[Feb 2025\]** 📝 New preprint on [arXiv](https://arxiv.org/abs/2502.02010): *"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."*
+* **\[Sep 2024\]** 🏆 Graduated as **Valedictorian** (Ranked 1st) from HUST with B.Sc in Mathematics and Informatics.
+* **\[Mar 2024\]** 💼 Joined **VinAI Research** (now Qualcomm AI Research) as an AI Research Resident.
+* **\[Jan 2024\]** 🎖️ Received the **"Five-Good Student" Award** from Hanoi City, Vietnam.
+* **\[Nov 2023\]** 🥇 Won **Gold Medal** at the International Youth Math Challenge (top 2%).
+* **\[Nov 2023\]** 🏅 Awarded **VIASM Scholarship** from the Vietnam Institute for Advanced Study in Mathematics.
+* **\[Aug 2023\]** 🥉 Won **Third Prize** at VIASM Summer School "Research Experiences for Undergraduates".
+* **\[Jun 2022\]** 🥇 Won **Gold Medal** at the Iranian Combinatorics Olympiad.
 
 ## Education
 
@@ -150,8 +113,9 @@ My research aims to uncover the fundamental mathematical principles governing st
   </div>
 </div>
 
+<!-- Honors & Awards (commented out) -->
+<!--
 ## Honors & Awards
-<!-- rgba(82, 173, 200, 0.08) -->
 <div style="display: grid; gap: 1em; margin: 1.5em 0;">
   <div style="padding: 1em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
@@ -163,7 +127,6 @@ My research aims to uncover the fundamental mathematical principles governing st
       <span style="color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em;">Nov 2023 – Apr 2024</span>
     </div>
   </div>
-
   <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
@@ -174,7 +137,6 @@ My research aims to uncover the fundamental mathematical principles governing st
       <span style="color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em;">Jan 2024</span>
     </div>
   </div>
-
   <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
@@ -184,7 +146,6 @@ My research aims to uncover the fundamental mathematical principles governing st
       <span style="color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em;">Nov 2023</span>
     </div>
   </div>
-
   <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
@@ -194,7 +155,6 @@ My research aims to uncover the fundamental mathematical principles governing st
       <span style="color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em;">Aug 2023</span>
     </div>
   </div>
-
   <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
@@ -204,7 +164,6 @@ My research aims to uncover the fundamental mathematical principles governing st
       <span style="color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em;">Aug 2023</span>
     </div>
   </div>
-
   <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
@@ -213,7 +172,6 @@ My research aims to uncover the fundamental mathematical principles governing st
       <span style="color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em;">Jun 2022</span>
     </div>
   </div>
-
   <div style="padding: 1em; background: rgba(122, 132, 136, 0.03); border-left: 4px solid var(--global-link-color); border-radius: 4px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div style="flex: 1;">
@@ -224,8 +182,7 @@ My research aims to uncover the fundamental mathematical principles governing st
     </div>
   </div>
 </div>
-
-<!-- I am looking for CS/ECE/Math PhD for Fall 2026! -->
+-->
 
 ## Selected Publications
 
