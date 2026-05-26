@@ -9,9 +9,8 @@ redirect_from:
 
 Thank you for visiting! My name is Duc-Anh Nguyen. You can call me Duc Anh for short.
 <!-- In Vietnamese, my name is written as Nguyễn Đức Ánh. -->
-I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), where I have the great chances to work under the guidance of [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) 
-and [Dr. Tung Pham](https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works).
-<!-- https://tanmnguyen89.github.io/ -->
+I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), where I have the great chances to work under the guidance of [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi),  [Dr. Tung Pham](https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works), and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
+<!--  -->
 <!-- (💡 You can switch between dark & light mode by clicking the button on the right of the CV) -->
 
 ## Research Interest
@@ -117,7 +116,7 @@ My research aims to uncover the fundamental mathematical principles governing st
         VinAI Research (acquired by Qualcomm)
       </p>
       <p style="margin-top: 0.75em; margin-bottom: 0; color: var(--global-text-color-light); font-size: 0.95em;">
-        <strong>Supervisors:</strong> <a href="https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi" target="_blank">Dr. Toan Tran</a>, <a href="https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works" target="_blank">Dr. Tung Pham</a><br>
+        <strong>Supervisors:</strong> <a href="https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi" target="_blank">Dr. Toan Tran</a>, <a href="https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works" target="_blank">Dr. Tung Pham</a>, <a href="https://tanmnguyen89.github.io/" target="_blank">Prof. Tan Nguyen</a><br>
         <strong>Research Topic:</strong> Efficiency, Scalability, and Robustness of Foundation Models 
         <!-- (State-Space Models and Sparse Mixture of Experts) -->
       </p>
