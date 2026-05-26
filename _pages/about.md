@@ -11,8 +11,7 @@ Thank you for visiting! My name is Duc-Anh Nguyen (Anh is my first name & Duc is
 
 I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), where I have the great chances to work under the guidance of [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
 
-
-(💡 You can switch between dark & light mode by clicking the button on the right of the CV)
+<!-- (💡 You can switch between dark & light mode by clicking the button on the right of the CV) -->
 
 ## Research Interest
 
