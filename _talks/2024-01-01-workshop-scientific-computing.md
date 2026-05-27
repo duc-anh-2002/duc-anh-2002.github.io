@@ -8,5 +8,5 @@ date: 2024-01-01
 location: "Hanoi, Vietnam"
 ---
 
-Talk in session with discussion on the minimax approach for solving non-convex multiobjective optimization problems and their applications in machine learning and optimization.
+Presented on the minimax approach for solving non-convex multiobjective optimization problems and their applications in machine learning and optimization.
 
