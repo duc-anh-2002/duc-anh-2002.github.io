@@ -22,10 +22,10 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 <div class="news-scroll">
 <ul>
-  <li><strong>[May 2026]</strong> 🎉 My two first-author papers at <strong>Qualcomm</strong> have been accepted at <strong>ICML 2026 workshops</strong>: <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> at <a href="https://icml.cc/virtual/2026/75153">AdaptFM</a> and <em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em> at <a href="https://icml.cc/virtual/2026/75868">CoLoRAI</a>. See you in <strong>Seoul, South Korea</strong> this July 🇰🇷!</li>
+  <li><strong>[May 2026]</strong> 🎉 My two first-author papers at <strong>Qualcomm</strong> have been accepted at <strong>ICML 2026 workshops</strong>: <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> at <a href="https://icml.cc/virtual/2026/75153">AdaptFM</a> and <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> at <a href="https://icml.cc/virtual/2026/workshop/54076">CoLoRAI</a>. See you in <strong>Seoul, South Korea</strong> this July 🇰🇷!</li>
   <li><strong>[Mar 2026]</strong> 🎓 I am thrilled to be admitted to <strong>Tufts University</strong> for a PhD in Electrical and Computer Engineering and <strong>National University of Singapore (NUS)</strong> for a PhD in Computer Science!</li>
   <li><strong>[Jan 2026]</strong> 🎓 I am thrilled to be admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</li>
-  <li><strong>[Jan 2026]</strong> 📋 Our paper <em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em> is approved for patent filing at Qualcomm. Paper coming soon!</li>
+  <li><strong>[Jan 2026]</strong> 📋 Our paper <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> is approved for patent filing at Qualcomm.</li>
   <li><strong>[Jan 2026]</strong> 📄 Our paper on <a href="https://link.springer.com/article/10.1007/s10845-025-02771-6"><em>"AI in Metal Additive Manufacturing"</em></a> is published in <strong>Journal of Intelligent Manufacturing</strong> (Q1, IF: 7.4).</li>
   <li><strong>[Nov 2025]</strong> 📋 Our paper <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> is available on arXiV and is approved for patent filing at Qualcomm.</li>
   <li><strong>[Feb 2025]</strong> 📝 Our new preprint is on <a href="https://arxiv.org/abs/2502.02010">arXiv</a>: <em>"A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes."</em></li>
@@ -234,14 +234,22 @@ My research focuses on uncovering the mathematical principles underlying foundat
 </p>
 
 <p>
-  2. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
+  2. <strong>Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models.</strong><br>
+  <u>Duc-Anh Nguyen</u>, Tien Ngoc Luu, Tung Pham, Toan Tran<br>
+  <em>ICML 2026 Workshop on Connecting Low-rank Representations in AI (CoLoRAI)</em>, 2026.
+  <a href="https://arxiv.org/abs/2606.31397" class="badge badge-green">arXiv</a>
+  <a href="https://icml.cc/virtual/2026/workshop/54076" class="badge badge-blue">workshop</a>
+</p>
+
+<p>
+  3. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
   <u>Duc-Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   Approved for Filing U.S. Patent, Qualcomm, 2025 &nbsp;|&nbsp; Under review, 2025
   <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
 </p>
 
 <p>
-  3. <strong>A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems.</strong><br>
+  4. <strong>A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems.</strong><br>
   <u>Duc-Anh Nguyen</u>, Tran Ngoc Thang<br>
   Under review, 2025
   <a href="https://arxiv.org/abs/2502.02010" class="badge badge-green">arXiv</a>
