@@ -28,6 +28,6 @@ redirect_from:
 <div style="max-width: 800px; margin: 0 auto; padding: 2em; background: rgba(122, 132, 136, 0.03); border-radius: 8px; border: 2px dashed var(--global-border-color);">
   <p style="text-align: center; color: var(--global-text-color-light); margin: 0;">
     <strong>View the full CV</strong> by clicking the download button above, or 
-    <a href="{{ base_path }}/Academic_CV.pdf" target="_blank" style="color: var(--global-link-color);">open it directly in a new tab</a>.
+    <a href="" target="_blank" style="color: var(--global-link-color);">open it directly in a new tab</a>.
   </p>
 </div>
