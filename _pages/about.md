@@ -9,7 +9,9 @@ redirect_from:
 
 Thank you for visiting! My name is Duc-Anh Nguyen. You can call me Duc Anh for short.
 <!-- In Vietnamese, my name is written as Nguyễn Đức Ánh. -->
-I'm an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), advised by [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi), [Dr. Tung Pham](https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works), and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
+I'm a **PhD student in Computer Science** at the **University of Virginia**, under the supervision of [Professor Hadi Daneshmand](https://hadidaneshmand.github.io/dhadi.html).
+
+Previously, I was an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), advised by [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi), [Dr. Tung Pham](https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works), and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
 <!--  -->
 <!-- (💡 You can switch between dark & light mode by clicking the button on the right of the CV) -->
 
@@ -22,6 +24,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 <div class="news-scroll">
 <ul>
+  <li><strong>[Aug 2026]</strong> 🎓 I started my PhD in Computer Science at the <strong>University of Virginia</strong>, under the supervision of <a href="https://hadidaneshmand.github.io/dhadi.html" target="_blank">Professor Hadi Daneshmand</a>!</li>
   <li><strong>[May 2026]</strong> 🎉 My two first-author papers at <strong>Qualcomm</strong> have been accepted at <strong>ICML 2026 workshops</strong>: <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> at <a href="https://icml.cc/virtual/2026/75153">AdaptFM</a> and <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> at <a href="https://icml.cc/virtual/2026/workshop/54076">CoLoRAI</a>. See you in <strong>Seoul, South Korea</strong> this July 🇰🇷!</li>
   <li><strong>[Mar 2026]</strong> 🎓 I am thrilled to be admitted to <strong>Tufts University</strong> for a PhD in Electrical and Computer Engineering and <strong>National University of Singapore (NUS)</strong> for a PhD in Computer Science!</li>
   <li><strong>[Jan 2026]</strong> 🎓 I am thrilled to be admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</li>
@@ -49,6 +52,22 @@ My research focuses on uncovering the mathematical principles underlying foundat
 </div>
 
 ## Educations
+
+<div class="education-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
+    <div style="flex: 1; min-width: 250px;">
+      <h3 style="margin: 0 0 0.5em 0; font-size: 1.15em; font-weight: bold;">University of Virginia (UVA)</h3>
+      <p style="margin: 0.25em 0; color: var(--global-text-color-light);">Ph.D. in Computer Science</p>
+    </div>
+    <div style="text-align: right; color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em; margin-top: 0.25em;">
+      <em>Aug 2026 – Present</em><br>
+      <em>Charlottesville, VA, USA</em>
+    </div>
+  </div>
+  <p style="margin-top: 0.75em; margin-bottom: 0; color: var(--global-text-color-light); font-size: 0.95em;">
+    <strong>Supervisor:</strong> <a href="https://hadidaneshmand.github.io/dhadi.html" target="_blank">Professor Hadi Daneshmand</a>
+  </p>
+</div>
 
 <div class="education-item" style="margin: 1.5em 0; padding: 1.25em; border-left: 4px solid var(--global-link-color); padding-left: 1.5em; background: linear-gradient(to right, rgba(122, 132, 136, 0.03), transparent); border-radius: 4px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 0.5em;">
@@ -124,7 +143,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
       </p>
     </div>
     <div style="text-align: right; color: var(--global-text-color-light); white-space: nowrap; margin-left: 1em; margin-top: 0.25em;">
-      <em>Mar 2024 – Present</em><br>
+      <em>Mar 2024 – Aug 2026</em><br>
       <em>Hanoi, Vietnam</em>
     </div>
   </div>
