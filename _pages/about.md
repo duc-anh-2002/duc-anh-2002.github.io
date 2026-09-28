@@ -22,6 +22,15 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 ## News
 
+<div class="news-celebration">
+  <div class="news-celebration__meta">
+    <span>Sep 2026</span>
+    <span class="news-celebration__badge"><span aria-hidden="true">🎉</span> Accepted · NeurIPS 2026</span>
+  </div>
+  <p class="news-celebration__title">Mixture-of-Control is heading to NeurIPS!</p>
+  <p>I'm thrilled to share that my paper, <a href="https://arxiv.org/abs/2606.31397">Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models</a>, has been accepted to <strong>NeurIPS 2026</strong>!</p>
+</div>
+
 <div class="news-scroll">
 <ul>
   <li><strong>[Aug 2026]</strong> 🎓 I started my PhD in Computer Science at the <strong>University of Virginia</strong>, under the supervision of <a href="https://hadidaneshmand.github.io/dhadi.html" target="_blank">Professor Hadi Daneshmand</a>!</li>
@@ -255,9 +264,8 @@ My research focuses on uncovering the mathematical principles underlying foundat
 <p>
   2. <strong>Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models.</strong><br>
   <u>Duc-Anh Nguyen</u>, Tien Ngoc Luu, Tung Pham, Toan Tran<br>
-  <em>ICML 2026 Workshop on Connecting Low-rank Representations in AI (CoLoRAI)</em>, 2026.
+  <em>NeurIPS 2026</em> (Accepted).
   <a href="https://arxiv.org/abs/2606.31397" class="badge badge-green">arXiv</a>
-  <a href="https://icml.cc/virtual/2026/workshop/54076" class="badge badge-blue">workshop</a>
 </p>
 
 <p>
