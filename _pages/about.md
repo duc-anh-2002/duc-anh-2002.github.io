@@ -33,6 +33,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 <div class="news-scroll">
 <ul>
+  <li><strong>[Sep 2026]</strong> 🎉 My paper <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> has been accepted to <strong>NeurIPS 2026</strong>! 🎊</li>
   <li><strong>[Aug 2026]</strong> 🎓 I started my PhD in Computer Science at the <strong>University of Virginia</strong>, under the supervision of <a href="https://hadidaneshmand.github.io/dhadi.html" target="_blank">Professor Hadi Daneshmand</a>!</li>
   <li><strong>[May 2026]</strong> 🎉 My two first-author papers at <strong>Qualcomm</strong> have been accepted at <strong>ICML 2026 workshops</strong>: <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> at <a href="https://icml.cc/virtual/2026/75153">AdaptFM</a> and <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> at <a href="https://icml.cc/virtual/2026/workshop/54076">CoLoRAI</a>. See you in <strong>Seoul, South Korea</strong> this July 🇰🇷!</li>
   <li><strong>[Mar 2026]</strong> 🎓 I am thrilled to be admitted to <strong>Tufts University</strong> for a PhD in Electrical and Computer Engineering and <strong>National University of Singapore (NUS)</strong> for a PhD in Computer Science!</li>
