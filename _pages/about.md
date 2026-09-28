@@ -22,14 +22,14 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 ## News
 
-<div class="news-celebration">
+<!-- <div class="news-celebration">
   <div class="news-celebration__meta">
     <span>Sep 2026</span>
     <span class="news-celebration__badge"><span aria-hidden="true">🎉</span> Accepted · NeurIPS 2026</span>
   </div>
   <p class="news-celebration__title">Mixture-of-Control is heading to NeurIPS!</p>
   <p>I'm thrilled to share that my paper, <a href="https://arxiv.org/abs/2606.31397">Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models</a>, has been accepted to <strong>NeurIPS 2026</strong>! <span aria-hidden="true">🎊</span></p>
-</div>
+</div> -->
 
 <div class="news-scroll">
 <ul>
