@@ -28,7 +28,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
     <span class="news-celebration__badge"><span aria-hidden="true">🎉</span> Accepted · NeurIPS 2026</span>
   </div>
   <p class="news-celebration__title">Mixture-of-Control is heading to NeurIPS!</p>
-  <p>I'm thrilled to share that my paper, <a href="https://arxiv.org/abs/2606.31397">Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models</a>, has been accepted to <strong>NeurIPS 2026</strong>!</p>
+  <p>I'm thrilled to share that my paper, <a href="https://arxiv.org/abs/2606.31397">Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models</a>, has been accepted to <strong>NeurIPS 2026</strong>! <span aria-hidden="true">🎊</span></p>
 </div>
 
 <div class="news-scroll">
@@ -255,17 +255,17 @@ My research focuses on uncovering the mathematical principles underlying foundat
 </div>
 
 <p>
-  1. <strong>Artificial Intelligence in Metal Additive Manufacturing: Current Status, Challenges, and Future Developments.</strong><br>
-  <u>Duc-Anh Nguyen</u>*, Bui Truong Giang Le*, Van Anh Nguyen, Minh Tuan Vu, Manh Ha Bui, Minh Thanh Le, Trong Duc Nguyen, Tien Dung Hoang, Xuan Hai Le<br>
-  <em>Journal of Intelligent Manufacturing</em> (Q1), Impact Factor: 7.4, 2025.
-  <a href="https://link.springer.com/article/10.1007/s10845-025-02771-6" class="badge badge-blue">link</a>
+  1. <strong>Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models.</strong><br>
+  <u>Duc-Anh Nguyen</u>, Tien Ngoc Luu, Tung Pham, Toan Tran<br>
+  <em>Advances in Neural Information Processing Systems</em> (NeurIPS 2026).
+  <a href="https://arxiv.org/abs/2606.31397" class="badge badge-green">arXiv</a>
 </p>
 
 <p>
-  2. <strong>Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models.</strong><br>
-  <u>Duc-Anh Nguyen</u>, Tien Ngoc Luu, Tung Pham, Toan Tran<br>
-  <em>NeurIPS 2026</em> (Accepted).
-  <a href="https://arxiv.org/abs/2606.31397" class="badge badge-green">arXiv</a>
+  2. <strong>Artificial Intelligence in Metal Additive Manufacturing: Current Status, Challenges, and Future Developments.</strong><br>
+  <u>Duc-Anh Nguyen</u>*, Bui Truong Giang Le*, Van Anh Nguyen, Minh Tuan Vu, Manh Ha Bui, Minh Thanh Le, Trong Duc Nguyen, Tien Dung Hoang, Xuan Hai Le<br>
+  <em>Journal of Intelligent Manufacturing</em> (Q1), Impact Factor: 7.4, 2025.
+  <a href="https://link.springer.com/article/10.1007/s10845-025-02771-6" class="badge badge-blue">link</a>
 </p>
 
 <p>
