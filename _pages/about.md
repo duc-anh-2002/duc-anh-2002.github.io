@@ -271,7 +271,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 <p>
   3. <strong>Selective Sinkhorn Routing for Improved Sparse Mixture of Experts.</strong><br>
-  <u>Duc-Anh Nguyen</u>*, Huu Binh Ta*, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
+  <u>Duc-Anh Nguyen</u>, Huu Binh Ta, Nhuan Le Duc, Tan Minh Nguyen, Toan Tran<br>
   <em>International Conference on Machine Learning</em> (ICML 2026) Workshop, AdaptFM.
   <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
 </p>
