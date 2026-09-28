@@ -256,7 +256,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 <p>
   1. <strong>Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models.</strong><br>
-  <u>Duc-Anh Nguyen</u>, Tien Ngoc Luu, Tung Pham, Toan Tran<br>
+  <u>Duc-Anh Nguyen</u>*, Tien Ngoc Luu*, Tung Pham, Toan Tran<br>
   <em>Advances in Neural Information Processing Systems</em> (NeurIPS 2026).
   <a href="https://arxiv.org/abs/2606.31397" class="badge badge-green">arXiv</a>
 </p>
