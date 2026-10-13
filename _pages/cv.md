@@ -11,12 +11,12 @@ redirect_from:
 
 <div style="text-align: center; margin: 3em 0;">
   <div style="margin-bottom: 2em;">
-    <a href="{{ base_path }}/Academic_CV.pdf" target="_blank" style="display: inline-block; padding: 1em 2em; background: var(--global-link-color); color: white; text-decoration: none; border-radius: 8px; font-size: 1.1em; font-weight: 600; transition: opacity 0.2s;">
+    <a href="{{ base_path }}/CV.pdf" target="_blank" style="display: inline-block; padding: 1em 2em; background: var(--global-link-color); color: white; text-decoration: none; border-radius: 8px; font-size: 1.1em; font-weight: 600; transition: opacity 0.2s;">
       📄 Download CV (PDF)
     </a>
   </div>
   <div style="color: var(--global-text-color-light); font-size: 0.9em;">
-    <em>Last updated: March 26, 2026</em><br>
+    <em>Last updated: October 13, 2026</em><br>
     <em style="margin-top: 0.5em; display: inline-block;">
       <a href="https://scholar.google.com/citations?user=5HTk1mgAAAAJ&hl=en" target="_blank" style="color: var(--global-link-color);">Google Scholar</a> | 
       <a href="https://github.com/duc-anh-2002" target="_blank" style="color: var(--global-link-color);">GitHub</a> | 
@@ -25,9 +25,11 @@ redirect_from:
   </div>
 </div>
 
-<div style="max-width: 800px; margin: 0 auto; padding: 2em; background: rgba(122, 132, 136, 0.03); border-radius: 8px; border: 2px dashed var(--global-border-color);">
-  <p style="text-align: center; color: var(--global-text-color-light); margin: 0;">
-    <strong>View the full CV</strong> by clicking the download button above, or 
-    <a href="" target="_blank" style="color: var(--global-link-color);">open it directly in a new tab</a>.
-  </p>
+<div style="max-width: 900px; margin: 0 auto; border: 1px solid var(--global-border-color); border-radius: 8px; overflow: hidden;">
+  <object data="{{ base_path }}/CV.pdf#view=FitH" type="application/pdf" width="100%" style="height: 85vh; min-height: 600px; display: block;">
+    <p style="text-align: center; padding: 2em; margin: 0;">
+      Your browser can't display the PDF inline.
+      <a href="{{ base_path }}/CV.pdf" target="_blank" style="color: var(--global-link-color);">Open the CV in a new tab</a>.
+    </p>
+  </object>
 </div>
