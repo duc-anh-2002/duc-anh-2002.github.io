@@ -1,0 +1,118 @@
+/* Personal reading shelf; colors follow the site's light and dark themes. */
+.resources {
+  max-width: 850px;
+
+  &__intro {
+    max-width: 660px;
+    margin: 0.75em 0 1.5em;
+    color: var(--global-text-color-light);
+    line-height: 1.7;
+  }
+
+  &__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em 1.25em;
+    padding: 1em 0;
+    margin-bottom: 2em;
+    border-top: 1px solid var(--global-border-color);
+    border-bottom: 1px solid var(--global-border-color);
+    font-size: 0.85em;
+
+    a {
+      text-decoration: none;
+      padding: 0.25em 0;
+    }
+  }
+
+  &__section {
+    margin-bottom: 2.5em;
+    scroll-margin-top: 90px;
+
+    h2 {
+      margin: 0 0 0.65em;
+      font-size: 1.2em;
+    }
+  }
+
+  &__section-note {
+    margin: -0.25em 0 1em;
+    color: var(--global-text-color-light);
+    font-size: 0.9em;
+  }
+
+  &__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  &__item {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1em;
+    margin: 0;
+    padding: 0.85em 0;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  &__body {
+    min-width: 0;
+  }
+
+  &__title {
+    font-size: 0.95em;
+    font-weight: 500;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+  }
+
+  a.resources__title {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em 1em;
+    margin-top: 0.2em;
+    color: var(--global-text-color-light);
+    font-size: 0.78em;
+  }
+
+  &__note {
+    margin: 0.25em 0 0;
+    color: var(--global-text-color-light);
+    font-size: 0.78em;
+  }
+
+  &__format {
+    flex-shrink: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.7em;
+    letter-spacing: 0.02em;
+  }
+
+  &__credit {
+    margin-top: 3em;
+    color: var(--global-text-color-light);
+    font-size: 0.78em;
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--global-link-color);
+    outline-offset: 4px;
+    border-radius: 2px;
+  }
+
+  @media (max-width: 480px) {
+    &__item { gap: 0.6em; }
+    &__nav { gap: 0.5em 1em; }
+  }
+}

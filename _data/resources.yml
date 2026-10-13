@@ -1,0 +1,180 @@
+# Add saved items here. Author, note, url, and extra_links are optional.
+- id: research
+  title: Research
+  items:
+    - title: Guiding Principles for Selecting Good Research Ideas
+      format: Notes
+      url: https://docs.google.com/document/d/1jUZm5M9J3O3RqupJgAYfskpPP4V0ThGFtBVBgWNlcWY/edit
+    - title: You and Your Research
+      author: Richard Hamming
+      format: Talk
+      url: https://www.youtube.com/watch?v=a1zDuOPkMSw
+      extra_links:
+        - label: Transcript
+          url: https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+    - title: An Opinionated Guide to ML Research
+      author: John Schulman
+      format: Essay
+      url: http://joschu.net/blog/opinionated-guide-ml-research.html
+    - title: Research as a Stochastic Decision Process
+      author: Jacob Steinhardt
+      format: Notes
+      url: https://docs.google.com/document/d/1KCSXYmInnBrOnFw5y3kQdNluLTYKt-jF1psyviNAeag/edit#heading=h.x68pu6i2isb4
+      extra_links:
+        - label: Web version
+          url: https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html
+    - title: Research Taste Exercises
+      author: Chris Olah
+      format: Essay
+      url: https://colah.github.io/notes/taste/
+    - title: The Craft of Research
+      format: Book
+      url: https://drive.google.com/file/d/1btSf8CbFs9g4p_dZQDzSJpl9WlwkCrEr/view
+    - title: How to Do Research
+      author: Bill Freeman
+      format: Slides
+      url: https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf
+    - title: How I Think About My Research
+      author: Neel Nanda
+      format: Collection
+      url: https://www.lesswrong.com/s/5GT3yoYM9gRmMEKqL
+    - title: Being Impactful as a Researcher
+      author: Dwarkesh Patel, Sholto Douglas & Trenton Bricken
+      format: Video
+      url: https://www.youtube.com/watch?v=cPu3SecmgUU&t=64s
+      extra_links:
+        - label: Full conversation
+          url: https://www.youtube.com/watch?v=UTuuTTnjxMQ
+
+- id: reading-writing
+  title: Reading & writing
+  items:
+    - title: How to Read Research Papers
+      author: Aaditya Ramdas
+      format: Slides
+      url: https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf
+    - title: The Elements of Style
+      format: Book
+      url: https://drive.google.com/file/d/1rYdtWN3zj5bnqqd3EaSk3AVkDaWK8HRO/view
+    - title: The Sense of Style
+      format: Book
+      url: https://drive.google.com/file/d/1teDodn-_n7AKk2iQEg9DbtFtZs7vRHFV/view
+    - title: How to Write a Great Research Paper
+      author: Simon Peyton Jones
+      format: Talk
+      url: https://simon.peytonjones.org/great-research-paper/
+    - title: How to Write a Great Research Grant Proposal
+      author: Simon Peyton Jones
+      format: Notes
+      url: https://simon.peytonjones.org/great-grant-proposal/
+    - title: Heuristics for Scientific Writing (A Machine Learning Perspective)
+      format: Essay
+      url: https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
+    - title: Writing Science
+      note: How to Write Papers That Get Cited and Proposals That Get Funded
+      format: Book
+      url: https://drive.google.com/file/d/1d7ph-Nb76Oe0oixMh6KiBSR_bgYrrrO-/view
+    - title: The Craft of Writing Effectively
+      format: Video
+      url: https://www.youtube.com/watch?v=vtIzMaLkCaM
+    - title: Common Mistakes in Technical Writing
+      author: Wojciech Jarosz
+      format: Notes
+      url: https://cs.dartmouth.edu/~wjarosz/writing.md.html
+    - title: Highly Opinionated Advice on How to Write ML Papers
+      author: Neel Nanda
+      format: Essay
+      url: https://www.lesswrong.com/s/5GT3yoYM9gRmMEKqL/p/eJGptPbbFPZGLpjsp
+    - title: How to ML Paper
+      author: Jakob N. Foerster
+      format: Notes
+      url: https://www.jakobfoerster.com/how-to-ml-paper
+    - title: How to ML Rebuttal
+      author: Jakob N. Foerster
+      format: Notes
+      url: https://www.jakobfoerster.com/how-to-rebuttal-ml-paper
+
+- id: ml
+  title: ML perspectives & lectures
+  items:
+    - title: The Bitter Lesson
+      author: Rich Sutton
+      format: Essay
+      url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+    - title: Probabilistic Machine Learning
+      author: Philipp Hennig
+      format: Lectures
+      url: https://www.youtube.com/watch?v=qg7V43qhOUE&list=PL05umP7R6ij0hPfU7Yuz8J9WXjlb3MFjm
+    - title: "Causal Representation Learning: A Natural Fit for Mechanistic Interpretability"
+      author: Dhanya Sridhar
+      format: Lecture
+      url: https://www.youtube.com/watch?v=1fy9XpSoG3o
+    - title: Theoretical and Empirical Aspects of Singular Learning Theory for AI Alignment
+      author: Daniel Murfet
+      format: Lecture
+      url: https://www.youtube.com/watch?v=H5VJuKsmtZ8
+
+- id: talks
+  title: Talks & presentations
+  items:
+    - title: How to Give a Good Research Talk
+      author: Simon Peyton Jones
+      format: Talk
+      url: https://simon.peytonjones.org/great-research-talk/
+    - title: How to Speak
+      format: Video
+      url: https://www.youtube.com/watch?v=Unzc731iCUY
+
+- id: career
+  title: Career
+  items:
+    - title: What I Learned from My Industry Job Search as a CS PhD
+      author: Dyah Adila
+      format: Essay
+      url: https://dyahadila.github.io/blog/2026/industry-job-search-cs-phd/
+    - title: A Ph.D. Is Not Enough
+      format: Book
+      url: https://drive.google.com/file/d/1jdFGJnHD30T3QvisNYj3FKx4G38sYA1l/view
+    - title: Career Advice
+      author: Terence Tao
+      format: Collection
+      url: https://terrytao.wordpress.com/career-advice/
+
+- id: collections
+  title: More to browse
+  items:
+    - title: Research Resources
+      author: Microsoft Research
+      format: Collection
+      url: https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/other-resources/
+    - title: Advice on Research and Writing
+      author: Mark Leone · CMU
+      format: Collection
+      url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html
+    - title: Awesome Tips
+      author: Jia-Bin Huang
+      format: GitHub
+      url: https://github.com/jbhuang0604/awesome-tips
+    - title: Awesome Lists for Tenure-Track Assistant Professors and Ph.D. Students
+      author: Junwei Liang
+      format: GitHub
+      url: https://github.com/JunweiLiang/awesome_lists/tree/main
+
+- id: inspiration
+  title: When I need a little inspiration
+  note: Films and books to come back to when I feel lost.
+  items:
+    - title: A Beautiful Mind
+      format: Film
+    - title: The Theory of Everything
+      format: Film
+    - title: The Man Who Knew Infinity
+      format: Film
+    - title: Oppenheimer
+      format: Film
+    - title: Three Idiots
+      format: Film
+    - title: Surely You’re Joking, Mr. Feynman!
+      format: Book
+    - title: What Do You Care What Other People Think?
+      format: Book

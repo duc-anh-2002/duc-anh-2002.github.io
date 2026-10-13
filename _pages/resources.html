@@ -1,0 +1,48 @@
+---
+layout: archive
+title: "Resources"
+permalink: /resources/
+author_profile: true
+excerpt: "A personal collection of things I want to read, watch, and revisit during my research career."
+---
+
+<div class="resources">
+  <p class="resources__intro">A place for things I want to read, watch, and come back to during my research career. Keeping them here so they don’t get lost in my bookmarks.</p>
+
+  <nav class="resources__nav" aria-label="Resource sections">
+    {% for section in site.data.resources %}
+      <a href="#{{ section.id }}">{% if section.id == 'inspiration' %}A little inspiration{% else %}{{ section.title | escape }}{% endif %}</a>
+    {% endfor %}
+  </nav>
+
+  {% for section in site.data.resources %}
+    <section class="resources__section" id="{{ section.id }}" aria-labelledby="{{ section.id }}-title">
+      <h2 id="{{ section.id }}-title">{{ section.title | escape }}</h2>
+      {% if section.note %}<p class="resources__section-note">{{ section.note | escape }}</p>{% endif %}
+      <ul class="resources__list" role="list">
+        {% for item in section.items %}
+          <li class="resources__item">
+            <div class="resources__body">
+              {% if item.url %}
+                <a class="resources__title" href="{{ item.url | escape }}">{{ item.title | escape }}</a>
+              {% else %}
+                <span class="resources__title">{{ item.title | escape }}</span>
+              {% endif %}
+              {% if item.author or item.extra_links %}
+                <div class="resources__meta">
+                  {% if item.author %}<span>{{ item.author | escape }}</span>{% endif %}
+                  {% for link in item.extra_links %}
+                    <a href="{{ link.url | escape }}">{{ link.label | escape }}</a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+              {% if item.note %}<p class="resources__note">{{ item.note | escape }}</p>{% endif %}
+            </div>
+            <span class="resources__format">{{ item.format | escape }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+  <p class="resources__credit">This collection includes recommendations from my mentors during my time at Qualcomm, as well as resources shared by my PhD labmate and roommate, <a href="https://valentinsix.github.io/resources/">Valentin Six</a>.</p>
+</div>
