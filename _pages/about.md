@@ -35,6 +35,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
 <ul>
   <li><strong>[Sep 2026]</strong> 🎉 <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> has been accepted to <strong>NeurIPS 2026</strong>! 🎊</li>
   <li><strong>[Aug 2026]</strong> 🎓 I started my PhD in Computer Science at the <strong>University of Virginia</strong>, under the supervision of <a href="https://hadidaneshmand.github.io/dhadi.html" target="_blank">Professor Hadi Daneshmand</a>!</li>
+  <li><strong>[Jul 2026]</strong> 📋 Our third paper <em>"Rethinking State-Control Dynamics for Unified and Efficient Transformer Adaptation"</em> is approved for patent filing at Qualcomm.</li>
   <li><strong>[May 2026]</strong> 🎉 My two first-author papers at <strong>Qualcomm</strong> have been accepted at <strong>ICML 2026 workshops</strong>: <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> at <a href="https://icml.cc/virtual/2026/75153">AdaptFM</a> and <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> at <a href="https://icml.cc/virtual/2026/workshop/54076">CoLoRAI</a>. See you in <strong>Seoul, South Korea</strong> this July 🇰🇷!</li>
   <li><strong>[Mar 2026]</strong> 🎓 I am thrilled to be admitted to <strong>Tufts University</strong> for a PhD in Electrical and Computer Engineering and <strong>National University of Singapore (NUS)</strong> for a PhD in Computer Science!</li>
   <li><strong>[Jan 2026]</strong> 🎓 I am thrilled to be admitted to the <strong>University of Virginia</strong> as a PhD student in Computer Science, starting Fall 2026!</li>
@@ -276,12 +277,12 @@ My research focuses on uncovering the mathematical principles underlying foundat
   <a href="https://arxiv.org/abs/2511.08972" class="badge badge-green">arXiv</a>
 </p>
 
-<p>
+<!-- <p>
   4. <strong>A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems.</strong><br>
   <u>Duc-Anh Nguyen</u>, Tran Ngoc Thang<br>
   Under review, 2025
   <a href="https://arxiv.org/abs/2502.02010" class="badge badge-green">arXiv</a>
-</p>
+</p> -->
 
 For a complete list of publications, please visit the [Publications](/publications/) page.
 
