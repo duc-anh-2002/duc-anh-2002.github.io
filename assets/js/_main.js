@@ -117,8 +117,8 @@ $(document).ready(function () {
   var didResize = false;
   bumpIt();
 
-  // FitVids init
-  fitvids();
+  // PDF viewers manage their own dimensions; FitVids treats width="100%" as 100px.
+  fitvids({ ignore: 'object[type="application/pdf"]' });
 
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function () {

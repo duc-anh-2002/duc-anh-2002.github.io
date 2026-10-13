@@ -26,7 +26,7 @@ redirect_from:
 </div>
 
 <div style="max-width: 900px; margin: 0 auto; border: 1px solid var(--global-border-color); border-radius: 8px; overflow: hidden;">
-  <object data="{{ base_path }}/CV.pdf#view=FitH" type="application/pdf" width="100%" aria-label="CV PDF preview" style="height: 65vh; max-height: 600px; display: block;">
+  <object data="{{ base_path }}/CV.pdf#view=FitH" type="application/pdf" width="100%" aria-label="CV PDF preview" style="height: 85vh; min-height: 600px; display: block;">
     <p style="text-align: center; padding: 2em; margin: 0;">
       Your browser can't display the PDF inline.
       <a href="{{ base_path }}/CV.pdf" target="_blank" style="color: var(--global-link-color);">Open the CV in a new tab</a>.
