@@ -9,7 +9,7 @@ redirect_from:
 
 Thank you for visiting! My name is Duc-Anh Nguyen. You can call me Duc Anh for short.
 <!-- In Vietnamese, my name is written as Nguyễn Đức Ánh. -->
-I'm a **PhD student in Computer Science** at the **University of Virginia**, under the supervision of [Professor Hadi Daneshmand](https://hadidaneshmand.github.io/dhadi.html).
+I'm a **first-year PhD student in Computer Science** at the **University of Virginia**, under the supervision of [Professor Hadi Daneshmand](https://hadidaneshmand.github.io/dhadi.html).
 
 Previously, I was an **AI Research Resident** at **Qualcomm AI Research** (formerly VinAI Research), advised by [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi), [Dr. Tung Pham](https://scholar.google.com/citations?hl=en&user=KcUuEKsAAAAJ&view_op=list_works), and [Prof. Tan Nguyen](https://tanmnguyen89.github.io/).
 <!--  -->
@@ -33,7 +33,7 @@ My research focuses on uncovering the mathematical principles underlying foundat
 
 <div class="news-scroll">
 <ul>
-  <li><strong>[Sep 2026]</strong> 🎉 <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> has been accepted to <strong>NeurIPS 2026</strong>! 🎊</li>
+  <li><strong>[Sep 2026]</strong> 🎉 <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> has been accepted to <strong>NeurIPS 2026</strong>! 🎊 See you in <strong>Atlanta, Georgia, USA</strong> this December 🇺🇸 (and my friend will be presenting it in <strong>Sydney, Australia</strong> 🇦🇺)!</li>
   <li><strong>[Aug 2026]</strong> 🎓 I started my PhD in Computer Science at the <strong>University of Virginia</strong>, under the supervision of <a href="https://hadidaneshmand.github.io/dhadi.html" target="_blank">Professor Hadi Daneshmand</a>!</li>
   <li><strong>[Jul 2026]</strong> 📋 Our third paper <em>"Rethinking State-Control Dynamics for Unified and Efficient Transformer Adaptation"</em> is approved for patent filing at Qualcomm.</li>
   <li><strong>[May 2026]</strong> 🎉 My two first-author papers at <strong>Qualcomm</strong> have been accepted at <strong>ICML 2026 workshops</strong>: <a href="https://arxiv.org/abs/2511.08972"><em>"Selective Sinkhorn Routing for Improved Sparse Mixture of Experts"</em></a> at <a href="https://icml.cc/virtual/2026/75153">AdaptFM</a> and <a href="https://arxiv.org/abs/2606.31397"><em>"Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models"</em></a> at <a href="https://icml.cc/virtual/2026/workshop/54076">CoLoRAI</a>. See you in <strong>Seoul, South Korea</strong> this July 🇰🇷!</li>
